@@ -6,22 +6,25 @@ from tweepy import Stream
 # Variables for twitter authentication
 # Replace with your tokens
 # To get tokens, visit: https://dev.twitter.com/oauth
-access_token = "166265377-rH2Q2VOXXepf2WdCOXJgCwlX1TKQjU60xoAPX7lZ"
-access_token_secret = "IoSgfjbor93qE91amdFj4Ddjt3BqVM2Rkzr6VY3NqHITb"
-consumer_key =  "48yGd5NJFsm47zkPjZoIJudJq"
-consumer_secret = "WsPrCQdJURk2RA61Gp4P5ackH1Z5q5MGFLNM9d77es47GKsSbc"
+access_token = "YOUR TOKEN HERE"
+access_token_secret = "YOUR SECRET HERE"
+consumer_key =  "YOUR TOKEN HERE"
+consumer_secret = "YOUR SECRET HERE"
 
 # The listener that prints out the tweets
 # If you want to save them into a file, and not just print on the screen use "python3 twitterstream.py > filetosave.txt" when running the script
 class StdOutListener(StreamListener):
 
+	# Prints out the received data, run "python3 twitterStreaminAPI.py > tweets.txt" to save them into a file
 	def on_data(self, data):
 		print(data)
 		return True
 
+	# Print errors
 	def on_error(self, status):
 		print(status)
 
+	# Don't worry about timeouts
 	def on_timeout(self):
 		print('Timeout...')
 		return True # don't kill the stream

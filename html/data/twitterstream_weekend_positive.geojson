@@ -1,0 +1,4913 @@
+ { "type" : "FeatureCollection",
+    "features" : [
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.93694782, 60.20227699]
+        },
+        "properties" : {
+        	"id" : 895999304384598017,
+            "text": "Jeff Vandermeer reading from \"Borne\", his latest novel #worldcon75 @ Worldcon 75 https://t.co/S3P1cxvjk0",
+        	"sentiment_score" : 0.3182,
+        	"time" : "Fri Aug 11 13:24:15 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 895999692479373312,
+            "text": "Time for the festival fun to begin. Cool venue too #helsinki… https://t.co/L90Vw9NAyZ",
+        	"sentiment_score" : 0.8316,
+        	"time" : "Fri Aug 11 13:25:48 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896002186345406464,
+            "text": "@flowfestival LIVE #OurHouse #bassoradio @ Flow Festival Helsinki https://t.co/XInzVrvBgi",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Fri Aug 11 13:35:42 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9354, 60.2032]
+        },
+        "properties" : {
+        	"id" : 896004044199788545,
+            "text": "The Tram lager, apparently, and perhaps the least worst one in the venue - Drinking a KOFF III at @hesburgerfin - https://t.co/u4Cze0uyCp",
+        	"sentiment_score" : 0.5096,
+        	"time" : "Fri Aug 11 13:43:05 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.96181798, 60.18759794]
+        },
+        "properties" : {
+        	"id" : 896004384554962944,
+            "text": "Today was a good post day! #happysocks happysocks #bbceu #bbcicecream #billionaireboysclub… https://t.co/ibCXsIHkZL",
+        	"sentiment_score" : 0.4926,
+        	"time" : "Fri Aug 11 13:44:26 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.92986679, 60.15210047]
+        },
+        "properties" : {
+        	"id" : 896008441642307584,
+            "text": "Pro tip: Make sure that you're sufficiently sweaty from the sauna before jumping into the Baltic… https://t.co/ddNdRSlmUR",
+        	"sentiment_score" : 0.3182,
+        	"time" : "Fri Aug 11 14:00:34 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9375, 60.1708]
+        },
+        "properties" : {
+        	"id" : 896010117078011904,
+            "text": "Never again! Preparing for the party! #konfirmaatio #juhla #juhlavalmisteluja #party #preparing… https://t.co/wklAZJuhGu",
+        	"sentiment_score" : 0.508,
+        	"time" : "Fri Aug 11 14:07:13 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9356604, 60.202581]
+        },
+        "properties" : {
+        	"id" : 896010821821755392,
+            "text": "Well, er, yes... I mean, where else? Keep it for a souvenir? #Worldcon75 https://t.co/6uKmhqhNt7",
+        	"sentiment_score" : 0.3527,
+        	"time" : "Fri Aug 11 14:10:01 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [25.0447, 60.2928]
+        },
+        "properties" : {
+        	"id" : 896011224361705472,
+            "text": "Not very sour. The berries taste. Easy. A little watery. - Drinking a Blackberry Gose @ Maltainen Metso - https://t.co/EK3swWY6vZ #photo",
+        	"sentiment_score" : 0.4404,
+        	"time" : "Fri Aug 11 14:11:37 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896012070642167808,
+            "text": "@flowfestival meet these euro gals #flowfestival @ Flow Festival Helsinki https://t.co/GlGsWpA35b",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Fri Aug 11 14:14:59 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.6831263, 60.117981]
+        },
+        "properties" : {
+        	"id" : 896013099823714304,
+            "text": "Aahhh the smell of salt and sand. ☀️🌊✨There is no elixir on this blessed earth like it.☀️🌊✨… https://t.co/GICSE08xyc",
+        	"sentiment_score" : 0.7118,
+        	"time" : "Fri Aug 11 14:19:04 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896013660258050048,
+            "text": "feeling blue #flowfestival @ Flow Festival Helsinki https://t.co/ZbjAuQbMGy",
+        	"sentiment_score" : 0.5719,
+        	"time" : "Fri Aug 11 14:21:18 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.94583333, 60.15833333]
+        },
+        "properties" : {
+        	"id" : 896013823219552256,
+            "text": "Snapchat&#39;s caches found 🤣 wonderful mmiacarita 💕 #flashbackfriday #friendsie # goofballs ... https://t.co/qcW7KtIn2V",
+        	"sentiment_score" : 0.5719,
+        	"time" : "Fri Aug 11 14:21:57 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.93245, 60.16252]
+        },
+        "properties" : {
+        	"id" : 896014989382881280,
+            "text": "Quote of the day from my drink 'put value on the things that make… https://t.co/YDQ3Nef30p",
+        	"sentiment_score" : 0.34,
+        	"time" : "Fri Aug 11 14:26:35 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9222821, 60.15845434]
+        },
+        "properties" : {
+        	"id" : 896015062657363968,
+            "text": "About to go on Weird #Helsinki tour ;-) (@ Golden Classics - Car Show &amp; Cafe in Helsinki) https://t.co/da4Pu4N0fA",
+        	"sentiment_score" : 0.0772,
+        	"time" : "Fri Aug 11 14:26:52 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896015219599835136,
+            "text": "Let's FLOW ☎️ #flowfestival @ Flow Festival Helsinki https://t.co/5hQjbvxOX7",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Fri Aug 11 14:27:30 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [25.0447, 60.2928]
+        },
+        "properties" : {
+        	"id" : 896017484695965697,
+            "text": "Strong taste. Sharp. It&#39;s a big dive. Good pils. - Drinking at Miskolc Mosaic @ Maltainen Metso - https://t.co/8yXyr1zh7q #photo",
+        	"sentiment_score" : 0.7351,
+        	"time" : "Fri Aug 11 14:36:30 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896021442319581185,
+            "text": "FLOW PRE-PARTY W/ PAULIG#flowfestival2017 #paulig @ Flow Festival Helsinki https://t.co/6igwm34mRM",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Fri Aug 11 14:52:13 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.96300864, 60.16044721]
+        },
+        "properties" : {
+        	"id" : 896021770125418496,
+            "text": "Rapids in good company. (@ NJK Blekholmen w / @ swingtowin @ jpeterf) https://t.co/ibKQKSZyue",
+        	"sentiment_score" : 0.4404,
+        	"time" : "Fri Aug 11 14:53:31 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896023232699969536,
+            "text": "Litku Klemetti! #flowfestival #litkuklemetti # flowfestival2017 @ Flow Festival Helsinki https://t.co/h3Pia468gw",
+        	"sentiment_score" : 0.5411,
+        	"time" : "Fri Aug 11 14:59:20 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [25.0447, 60.2928]
+        },
+        "properties" : {
+        	"id" : 896025020056686592,
+            "text": "Pretty good. Grapefruit tastes good. A bit tired and sour .... (Virmalised GF) https://t.co/6FsC4tlnOp #photo",
+        	"sentiment_score" : 0.7269,
+        	"time" : "Fri Aug 11 15:06:26 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.93694782, 60.20227699]
+        },
+        "properties" : {
+        	"id" : 896026124097998848,
+            "text": "Can we just take a moment to appreciate that there is a woman who has done her PhD on Donald… https://t.co/hCrZNYvXZS",
+        	"sentiment_score" : 0.4019,
+        	"time" : "Fri Aug 11 15:10:50 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97154, 60.186015]
+        },
+        "properties" : {
+        	"id" : 896027745381175299,
+            "text": "Honey, home (@ Flow Festival 2017 in Helsinki, Uusimaa) https://t.co/LZhEJ0K0oM",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Fri Aug 11 15:17:16 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896029445282287617,
+            "text": "Artists Juhana Moisander and Pasi Rauhala are happy and relieved: their video installations… https://t.co/aF3m2Ui2Wt",
+        	"sentiment_score" : 0.743,
+        	"time" : "Fri Aug 11 15:24:01 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.87163989, 60.19379596]
+        },
+        "properties" : {
+        	"id" : 896032339289092097,
+            "text": "Thanks, #Finland, for serving up a week of sunshine for my visit. Makes up for the 12-degree… https://t.co/5fBq3zvYpm",
+        	"sentiment_score" : 0.7269,
+        	"time" : "Fri Aug 11 15:35:31 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.93232369, 60.16520691]
+        },
+        "properties" : {
+        	"id" : 896033564126531584,
+            "text": "Good coffee + pastry + sandwich place Coffee coffee coffee (@ Gran Delicato in Helsinki) https://t.co/9GQAp2D2lQ",
+        	"sentiment_score" : 0.4404,
+        	"time" : "Fri Aug 11 15:40:23 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [25.0447, 60.2928]
+        },
+        "properties" : {
+        	"id" : 896033824781545473,
+            "text": "Very dark. Strong, but easy. Aiming for sweetness. Ih ... (Seven Sins - Wrath) https://t.co/xrWqXJkG7I #photo",
+        	"sentiment_score" : 0.7535,
+        	"time" : "Fri Aug 11 15:41:25 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896036226637193216,
+            "text": "Omg #sun ☀️don't mess with my selfie! #festivalselfie #summer #hot #sunshine #flowfestival… https://t.co/RUH8NJ2A3B",
+        	"sentiment_score" : 0.3404,
+        	"time" : "Fri Aug 11 15:50:58 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [25.0447, 60.2928]
+        },
+        "properties" : {
+        	"id" : 896037549596135425,
+            "text": "The best beer in the world. - Drinking an Elvis Juice by @BrewDog @ Maltainen Metso - https://t.co/SCUmzNsnhz #photo",
+        	"sentiment_score" : 0.6369,
+        	"time" : "Fri Aug 11 15:56:14 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9715, 60.186]
+        },
+        "properties" : {
+        	"id" : 896038807186927616,
+            "text": "Drinking a Lapin Kulta Luomu by @Hartwall @ Flow Festival 2017 — https://t.co/o4p7fv67Xd #photo",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Fri Aug 11 16:01:13 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97154, 60.186015]
+        },
+        "properties" : {
+        	"id" : 896039247219752961,
+            "text": "woohooooo (@ Flow Festival 2017 in Helsinki, Uusimaa) https://t.co/BQ04PLDBe0",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Fri Aug 11 16:02:58 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.4358523, 60.26913472]
+        },
+        "properties" : {
+        	"id" : 896040137142018049,
+            "text": "One of the great bonuses of playing discgolf in a Finnish forest in August! Free yummy snacks!… https://t.co/nnj3SAJxYV",
+        	"sentiment_score" : 0.95,
+        	"time" : "Fri Aug 11 16:06:30 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9375, 60.1708]
+        },
+        "properties" : {
+        	"id" : 896040854535761920,
+            "text": "Street music in beautiful #Helsinki with the sun shining #street #streetart #streetmusic #music… https://t.co/SMLURlaejN",
+        	"sentiment_score" : 0.5994,
+        	"time" : "Fri Aug 11 16:09:22 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.93694782, 60.20227699]
+        },
+        "properties" : {
+        	"id" : 896041889941553152,
+            "text": "Pretty happy with my seats for the #hugos #worldcon75 @ Worldcon 75 https://t.co/G6p4wvZLEy",
+        	"sentiment_score" : 0.7845,
+        	"time" : "Fri Aug 11 16:13:28 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [25.0447, 60.2928]
+        },
+        "properties" : {
+        	"id" : 896042245601845250,
+            "text": "Cooling the best. Everything that has to be. #SaiPa ... (Elvis Juice (2017)) https://t.co/F5HHNgVDKk #photo",
+        	"sentiment_score" : 0.6369,
+        	"time" : "Fri Aug 11 16:14:53 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97154, 60.186015]
+        },
+        "properties" : {
+        	"id" : 896042494504448000,
+            "text": "#Soexcited ⚡️🤘🏻 (@ Flow Festival 2017 in Helsinki, Uusimaa) https://t.co/WuHj4WCJhq https://t.co/pMFyULXfUQ",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Fri Aug 11 16:15:53 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.93694782, 60.20227699]
+        },
+        "properties" : {
+        	"id" : 896044938810597376,
+            "text": "Waiting for the Hugo Awards ceremony to start! #hugoawards #worldcon75 @ Worldcon 75 https://t.co/58Tak2Sv0v",
+        	"sentiment_score" : 0.5093,
+        	"time" : "Fri Aug 11 16:25:35 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [25.0447, 60.2928]
+        },
+        "properties" : {
+        	"id" : 896045183741169664,
+            "text": "Very good for cans. Very sour. Poreilee ok. Veriap ... (Sanguinem Aurantiaco) https://t.co/GUW0kWMUjh #photo",
+        	"sentiment_score" : 0.6865,
+        	"time" : "Fri Aug 11 16:26:34 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9255, 60.1989]
+        },
+        "properties" : {
+        	"id" : 896049043398205441,
+            "text": "Mostly harmless. #worldcon75 - Drinking an American Cream Ale by Olvi @ Bar Böle  — https://t.co/FKYeQwi5j5 #photo",
+        	"sentiment_score" : 0.25,
+        	"time" : "Fri Aug 11 16:41:54 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896049708283568129,
+            "text": "#flowfestival2017 @ Flow Festival Helsinki https://t.co/LTQ94fFNxo",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Fri Aug 11 16:44:32 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.93887, 60.17346]
+        },
+        "properties" : {
+        	"id" : 896051189594206208,
+            "text": "Oh! The amazing @woolshedfinland #vegan #burger is #kickass! #vegetarian @ Woolshed Helsinki https://t.co/lvmSdAVJEZ",
+        	"sentiment_score" : 0.658,
+        	"time" : "Fri Aug 11 16:50:26 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896053164159320064,
+            "text": "#ReinoNordin #2m #flow @ Flow Festival Helsinki https://t.co/OZQHwpBXX7",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Fri Aug 11 16:58:16 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [25.0447, 60.2928]
+        },
+        "properties" : {
+        	"id" : 896053436382199808,
+            "text": "Sweet and dark. Coffee. Vahvahko. - Drinking an Imperial Stout by @nogneo @ Maltainen Metso - https://t.co/QG1xDbX1EP",
+        	"sentiment_score" : 0.5719,
+        	"time" : "Fri Aug 11 16:59:21 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896054433951367168,
+            "text": "that time of the year.. 🇫🇮naamkitchen 🌯🔥🥇@flowfestival @ Flow Festival Helsinki https://t.co/TrPqwp8HVv",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Fri Aug 11 17:03:19 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.95638889, 60.16972222]
+        },
+        "properties" : {
+        	"id" : 896057050991427584,
+            "text": "Others are looking for Flow from the gas clock, others from the Ritarihuone :) # chambers #flow and good #posse @ ... https://t.co/t0k7lbzMFx",
+        	"sentiment_score" : 0.7096,
+        	"time" : "Fri Aug 11 17:13:43 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896060940168306688,
+            "text": "Yearly rendezvous #flowfestival2017 @ Flow Festival Helsinki https://t.co/XnM3J5x1x7",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Fri Aug 11 17:29:10 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896061235900293121,
+            "text": "In addition to Good Flow, there is also a low queue flow rate of 42 minutes. #flowfestival #festival # summer ... https://t.co/LFwDx1rS1V",
+        	"sentiment_score" : 0.2023,
+        	"time" : "Fri Aug 11 17:30:21 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896061618286546944,
+            "text": "Roy Ayers @ Flow Festival Helsinki https://t.co/q2iciRu5ND",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Fri Aug 11 17:31:52 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896061829440352256,
+            "text": "Roy Ayers @flowfestival @ Flow Festival Helsinki https://t.co/Mye3kijQ9w",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Fri Aug 11 17:32:42 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896062513430675458,
+            "text": "Roy Ayers @flowfestival @ Flow Festival Helsinki https://t.co/ChRIXH0BAr",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Fri Aug 11 17:35:25 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896065765962522624,
+            "text": "Flow! 📸: ceciliapaldanius @ Flow Festival Helsinki https://t.co/rEFsZKYSHO",
+        	"sentiment_score" : 0.5411,
+        	"time" : "Fri Aug 11 17:48:21 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896066189285249026,
+            "text": "Nothing to say. #royayers #flowfestival @ Flow Festival Helsinki https://t.co/ap9TJFtzTQ",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Fri Aug 11 17:50:02 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.93694782, 60.20227699]
+        },
+        "properties" : {
+        	"id" : 896067143489298433,
+            "text": "Japan party @ Worldcon 75 https://t.co/MOkaWHNspl",
+        	"sentiment_score" : 0.4019,
+        	"time" : "Fri Aug 11 17:53:49 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.6556, 60.2056]
+        },
+        "properties" : {
+        	"id" : 896067186568994816,
+            "text": "have a great weekend😸 @ Espoo, Finland https://t.co/OAJuuHcUhr",
+        	"sentiment_score" : 0.6249,
+        	"time" : "Fri Aug 11 17:54:00 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896067198975754240,
+            "text": "#flowfestival @ Flow Festival Helsinki https://t.co/eoMZjKnMnI",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Fri Aug 11 17:54:03 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9398, 60.168]
+        },
+        "properties" : {
+        	"id" : 896067761402662912,
+            "text": "Been hoping for something like this all week! - Drinking a X-Porter @ Villin Wäinön terassi - https://t.co/xNNB0XIeB4",
+        	"sentiment_score" : 0.68,
+        	"time" : "Fri Aug 11 17:56:17 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97457625, 60.18640469]
+        },
+        "properties" : {
+        	"id" : 896068971362779136,
+            "text": "Flow festival. Aphex Twin in 15min!",
+        	"sentiment_score" : 0.5411,
+        	"time" : "Fri Aug 11 18:01:05 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [25.0331, 60.2937]
+        },
+        "properties" : {
+        	"id" : 896070589076484096,
+            "text": "Vetinen IPA. Helppo. Mauton. Ok. - Drinking a KOFF IPA by @Sinebrychoff @ Old Story  — https://t.co/uw0j1wfP1G",
+        	"sentiment_score" : 0.296,
+        	"time" : "Fri Aug 11 18:07:31 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896073492306706433,
+            "text": "🖤 @ Flow Festival Helsinki https://t.co/QqSdNGhVVC",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Fri Aug 11 18:19:03 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.96667, 60.16667]
+        },
+        "properties" : {
+        	"id" : 896074748806836225,
+            "text": "Good evening #Helsinki! Sun will set in 30 minutes (local time 21:24) #Sunset #Photo #Photography [11.08.2017]",
+        	"sentiment_score" : 0.4926,
+        	"time" : "Fri Aug 11 18:24:03 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896076900623187968,
+            "text": "#aphextwin @ Flow Festival Helsinki https://t.co/qedmQRm3j7",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Fri Aug 11 18:32:36 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896078213004181504,
+            "text": "#joshuaredman #flowfestival #flowfestival2017 #helsinki @ Flow Festival Helsinki https://t.co/WHUAnZA3Ew",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Fri Aug 11 18:37:48 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896078905701933056,
+            "text": "helsinkihemp 2017 expo #promo #pic #visithelsinki #hemp #flowfestival @ Flow Festival Helsinki https://t.co/aCDo7qHi8w",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Fri Aug 11 18:40:34 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.95993, 60.16898]
+        },
+        "properties" : {
+        	"id" : 896079756038250496,
+            "text": "Excellent food and great company. Compliments to the chef. #Shelter #visithelsinki #kanavaranta… https://t.co/UfncHYgmwc",
+        	"sentiment_score" : 0.8885,
+        	"time" : "Fri Aug 11 18:43:56 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896081484955631617,
+            "text": "Laser aspy #flowfestival2017 #helsinki @ Flow Festival Helsinki https://t.co/opDlpHQ8DE",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Fri Aug 11 18:50:49 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896082016243929088,
+            "text": "flow babes #flowfestival @ Flow Festival Helsinki https://t.co/tYZIyk0cdL",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Fri Aug 11 18:52:55 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9398, 60.168]
+        },
+        "properties" : {
+        	"id" : 896082098884235265,
+            "text": "Wow! Juniper smoke apparently but more like a Schlenkerla Rauch than No... (Prykmestar SavuKataja) https://t.co/qwDI4Vqapl",
+        	"sentiment_score" : 0.7492,
+        	"time" : "Fri Aug 11 18:53:15 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896085135874850816,
+            "text": "The best festival food ever! # Restaurant @flowfestival lauri.kahkonen Ohra + pumpkin # vege ... https://t.co/8cOP69OYc5",
+        	"sentiment_score" : 0.8268,
+        	"time" : "Fri Aug 11 19:05:19 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896090070616203264,
+            "text": "#joshuaredman #blastoff @ Flow Festival Helsinki https://t.co/zF8IELHT2A",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Fri Aug 11 19:24:56 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.93694782, 60.20227699]
+        },
+        "properties" : {
+        	"id" : 896090829428670464,
+            "text": "Japan party @ Worldcon 75 https://t.co/3nDnYXNUsU",
+        	"sentiment_score" : 0.4019,
+        	"time" : "Fri Aug 11 19:27:56 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.93694782, 60.20227699]
+        },
+        "properties" : {
+        	"id" : 896090842854678528,
+            "text": "Epic. And lovely. #worldcon75 #thehugoawards @ Worldcon 75 https://t.co/zATM3smKJZ",
+        	"sentiment_score" : 0.5859,
+        	"time" : "Fri Aug 11 19:28:00 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896092504805695488,
+            "text": "#aphextwin extremely loud and incredibly close @ Flow Festival Helsinki https://t.co/RTyBAo5hEA",
+        	"sentiment_score" : 0.5367,
+        	"time" : "Fri Aug 11 19:34:36 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896092803356213248,
+            "text": "aphextwin #extremelyloudandincrediblyclose @ Flow Festival Helsinki https://t.co/RTyBAo5hEA",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Fri Aug 11 19:35:47 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [25.02737, 60.25447]
+        },
+        "properties" : {
+        	"id" : 896097479728308224,
+            "text": "It was a very good day arcade jamming with @johannapuusti #groovecoaster #sugoi #taikonotatsujin… https://t.co/SuIESFnZ6q",
+        	"sentiment_score" : 0.4927,
+        	"time" : "Fri Aug 11 19:54:22 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9398, 60.168]
+        },
+        "properties" : {
+        	"id" : 896098365905096704,
+            "text": "Very nice wheatie from a phone company with an in-house microbrewery!... (Weisse) https://t.co/p2D2B6mYu1",
+        	"sentiment_score" : 0.5244,
+        	"time" : "Fri Aug 11 19:57:53 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9246197, 60.162159]
+        },
+        "properties" : {
+        	"id" : 896098418602369024,
+            "text": "Noni and go home at the back of the party !!! #retroperjantai @ Radisson Blu Seaside ... https://t.co/JqGfXkMTk7",
+        	"sentiment_score" : 0.5538,
+        	"time" : "Fri Aug 11 19:58:06 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.93, 60.17]
+        },
+        "properties" : {
+        	"id" : 896099237460459520,
+            "text": "few clouds -&gt; clear skytemperature down 20°C -&gt; 18°Chumidity up 64% -&gt; 77%wind 5kmh -&gt; 4kmh",
+        	"sentiment_score" : 0.3818,
+        	"time" : "Fri Aug 11 20:01:21 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.6831263, 60.117981]
+        },
+        "properties" : {
+        	"id" : 896106660057329664,
+            "text": "Because a little bit of summer is what the whole year is all about ☀️🌊 Great evening with the… https://t.co/SqYt4gu8yM",
+        	"sentiment_score" : 0.6249,
+        	"time" : "Fri Aug 11 20:30:51 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896108311426154496,
+            "text": "Flow-heila nollaseitsemäntoista. @ Flow Festival Helsinki https://t.co/QTgE1tJzZ4",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Fri Aug 11 20:37:24 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9375, 60.1708]
+        },
+        "properties" : {
+        	"id" : 896109597752033280,
+            "text": "Helsinki as usual 😊Great times in Stockholm today #Finland#UK#London #Sweden #Newyork… https://t.co/rkNBhz3pTV",
+        	"sentiment_score" : 0.6249,
+        	"time" : "Fri Aug 11 20:42:31 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896111059790028800,
+            "text": "Lana del Rey.. ❤️ @ Flow Festival Helsinki https://t.co/iW3dLiZr25",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Fri Aug 11 20:48:20 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896113133743357952,
+            "text": "Go play your video games 💖 @ Flow Festival Helsinki https://t.co/9bLJH14DCN",
+        	"sentiment_score" : 0.6808,
+        	"time" : "Fri Aug 11 20:56:34 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896113357589143552,
+            "text": "#flowfestival @ Flow Festival Helsinki https://t.co/1OWrbNYDYf",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Fri Aug 11 20:57:28 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896113998973640704,
+            "text": "In the pit at Car Seat Headrest, Flow Festival, Helsinki @ Flow Festival Helsinki https://t.co/0I2yqG8p4N",
+        	"sentiment_score" : 0.7506,
+        	"time" : "Fri Aug 11 21:00:01 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896116642798723074,
+            "text": "at work...  #suneffectsfi #flowfestival2017 ... @ Flow Festival Helsinki https://t.co/wTTHrZxYFp",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Fri Aug 11 21:10:31 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.934, 60.17073]
+        },
+        "properties" : {
+        	"id" : 896116872415854593,
+            "text": "Guess who's at the George R R Martin invite only, terribly exclusive, after party? Oh, only… https://t.co/QufV9BFpxw",
+        	"sentiment_score" : 0.0516,
+        	"time" : "Fri Aug 11 21:11:26 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.93350643, 60.17056539]
+        },
+        "properties" : {
+        	"id" : 896122772123918337,
+            "text": "The post-Hugo party. OMG (@ Steam Hellsinki in Helsinki) https://t.co/5vz4S3lgVH",
+        	"sentiment_score" : 0.4019,
+        	"time" : "Fri Aug 11 21:34:52 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9375, 60.1708]
+        },
+        "properties" : {
+        	"id" : 896123483611987968,
+            "text": "We moved from the Andalusian cuisine to the Finnish kitchen .... with its charming atmosphere .... it was a lunch lunch today ... https://t.co/6k1B8F3b3T",
+        	"sentiment_score" : 0.5859,
+        	"time" : "Fri Aug 11 21:37:42 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.93627905, 60.20310142]
+        },
+        "properties" : {
+        	"id" : 896125870770798592,
+            "text": "Luxury handbag gets taken to fancy event. Even gets a seat. Its not bad being #author minicorini… https://t.co/TXbGdGcy8K",
+        	"sentiment_score" : 0.431,
+        	"time" : "Fri Aug 11 21:47:11 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896125924071976960,
+            "text": "Just posted a photo @ Flow Festival Helsinki https://t.co/6zHIJCq37d",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Fri Aug 11 21:47:24 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896131410817204225,
+            "text": "Catoonified ex-industrial terrain #myhelsinki #flow2017 #prismafilter @ Flow Festival Helsinki https://t.co/VTnPTTdQ3P",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Fri Aug 11 22:09:12 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896132597461303296,
+            "text": "Goodnight Ms Del Ray, thanks for the show (and the summertime madness) #flow2917 #lanadelrey @… https://t.co/JS9hMXmg1Z",
+        	"sentiment_score" : 0.4404,
+        	"time" : "Fri Aug 11 22:13:55 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896133882554097664,
+            "text": "Voice of an angel @lanadelrey ❤️ @ Flow Festival Helsinki https://t.co/xmGWyr1SbJ",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Fri Aug 11 22:19:01 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896138736399810560,
+            "text": "My first time at #FlowFestival and I am working in the #press. This festival is awesome! It is… https://t.co/WnuAtMK74q",
+        	"sentiment_score" : 0.8221,
+        	"time" : "Fri Aug 11 22:38:18 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896148571401015296,
+            "text": "Beautiful sounds #LondonGrammar @flowfestival @ Flow Festival Helsinki https://t.co/EicuDkhWKW",
+        	"sentiment_score" : 0.7964,
+        	"time" : "Fri Aug 11 23:17:23 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896150647636017152,
+            "text": "Roy❤️ #royayers #flowfestival @ Flow Festival Helsinki https://t.co/JWmPv2klK4",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Fri Aug 11 23:25:38 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896151289460965376,
+            "text": "it's you it's you it's all for you, heaven is a place on earth with you à Flow Festival Helsinki https://t.co/QyTm2seUKM",
+        	"sentiment_score" : 0.7579,
+        	"time" : "Fri Aug 11 23:28:11 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896151491357974529,
+            "text": "@lanadelrey 🖤 @ Flow Festival Helsinki https://t.co/QPBnFZYq2m",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Fri Aug 11 23:28:59 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896160424390926336,
+            "text": "Aphex Twin ⚛️ @flowfestival #aphextwin #flowfestival @ Flow Festival Helsinki https://t.co/OppjtjN138",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sat Aug 12 00:04:29 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896164318437187584,
+            "text": "#mibras is the best you can imagine. Cause of relationship - #mibrasa # grease ... https://t.co/m13Z1CN3NH",
+        	"sentiment_score" : 0.6369,
+        	"time" : "Sat Aug 12 00:19:58 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.95344877, 60.18595296]
+        },
+        "properties" : {
+        	"id" : 896167685008093185,
+            "text": "Cheers to Catfish and college @ WINO https://t.co/aQZqMfkq6B",
+        	"sentiment_score" : 0.4767,
+        	"time" : "Sat Aug 12 00:33:20 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.93627905, 60.20310142]
+        },
+        "properties" : {
+        	"id" : 896173352209068032,
+            "text": "Con by the Lakes. Beautiful place and amazing people. And the most… https://t.co/BkXuoBsR9T",
+        	"sentiment_score" : 0.8271,
+        	"time" : "Sat Aug 12 00:55:51 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9383, 60.1698]
+        },
+        "properties" : {
+        	"id" : 896196124536709120,
+            "text": "Good morning, Helsinki! :) #Sunrise 05:26, noon 13:25, sunset 21:23 EEST (UTC+3), August 12. Day length: 15h 57m.",
+        	"sentiment_score" : 0.7345,
+        	"time" : "Sat Aug 12 02:26:21 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.96667, 60.16667]
+        },
+        "properties" : {
+        	"id" : 896196546638860288,
+            "text": "Good morning #Helsinki! Sun will rise in 30 minutes (local time 05:28) #Sunrise #Photo #Photography [12.08.2017]",
+        	"sentiment_score" : 0.4926,
+        	"time" : "Sat Aug 12 02:28:01 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.93, 60.17]
+        },
+        "properties" : {
+        	"id" : 896196780064481284,
+            "text": "current weather in Helsinki: clear sky, 17°C88% humidity, wind 3kmh, pressure 1012mb",
+        	"sentiment_score" : 0.1027,
+        	"time" : "Sat Aug 12 02:28:57 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9375, 60.1708]
+        },
+        "properties" : {
+        	"id" : 896219707552014336,
+            "text": "Today, for luck, I wear the Rain Wilds River. #readergift #worldcon75 #Helsinki #jewelryart @… https://t.co/DoB5rYNTVx",
+        	"sentiment_score" : 0.4588,
+        	"time" : "Sat Aug 12 04:00:03 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.938379, 60.1698557]
+        },
+        "properties" : {
+        	"id" : 896234807264370689,
+            "text": "Can you recommend anyone for this #job? Account Manager - Services Sales - https://t.co/jCcKsiEKti #DellJobs #Sales #Helsinki #Hiring",
+        	"sentiment_score" : 0.3612,
+        	"time" : "Sat Aug 12 05:00:03 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [25.078056, 60.210278]
+        },
+        "properties" : {
+        	"id" : 896237505934008320,
+            "text": "The best benches for the morning job when the eyes are not yet open #shome #parhaus # sleeps ... https://t.co/5DXmqZqJDC",
+        	"sentiment_score" : 0.6369,
+        	"time" : "Sat Aug 12 05:10:47 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.749239, 60.277367]
+        },
+        "properties" : {
+        	"id" : 896242080439308288,
+            "text": "BIKERS Compilation 2016 -  Burnout, Acceleration, Beautiful Motorbike So... https://t.co/XOBWxrDsP9",
+        	"sentiment_score" : 0.5994,
+        	"time" : "Sat Aug 12 05:28:58 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.93171273, 60.18609602]
+        },
+        "properties" : {
+        	"id" : 896247592253706240,
+            "text": "This kind family visited my lenses last week. Everything good for the future, ... https://t.co/FanaZ0RE2D",
+        	"sentiment_score" : 0.743,
+        	"time" : "Sat Aug 12 05:50:52 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.6556, 60.2056]
+        },
+        "properties" : {
+        	"id" : 896258339662901248,
+            "text": "Unmanaged packaging. An irresistible box for mouse pads. # Giants ... https://t.co/NlPQBrDl5h",
+        	"sentiment_score" : 0.34,
+        	"time" : "Sat Aug 12 06:33:34 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896260815484895232,
+            "text": "#flowfestival #Helsinki @lanadelrey @ Flow Festival Helsinki https://t.co/bCUzBcvD4V",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sat Aug 12 06:43:24 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896265450299940864,
+            "text": "#lanadelrey #flowfestival2017 #flowfestival @ Flow Festival Helsinki https://t.co/gvdKywOirb",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sat Aug 12 07:01:49 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896265696581222400,
+            "text": "#lanadelrey #flowfestival2017 #flowfestival @ Flow Festival Helsinki https://t.co/Y1cQmgw2A3",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sat Aug 12 07:02:48 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896266028241612800,
+            "text": "#lanadelrey #flowfestival #flowfestival2017 @ Flow Festival Helsinki https://t.co/VSlzthh6T0",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sat Aug 12 07:04:07 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896266319624114176,
+            "text": "#lanadelrey #flowfestival #flowfestival2017 @ Flow Festival Helsinki https://t.co/4CDWcfGWAh",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sat Aug 12 07:05:17 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.93037, 60.16969]
+        },
+        "properties" : {
+        	"id" : 896272650707886080,
+            "text": "Took a 07:30 ⛴ to get back in HEL. Hope it's better at theater. 💃🕺 #yourname @ Finnkino… https://t.co/sQd6oaQUOU",
+        	"sentiment_score" : 0.7003,
+        	"time" : "Sat Aug 12 07:30:26 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97152881, 60.18993605]
+        },
+        "properties" : {
+        	"id" : 896272694240530432,
+            "text": "It looks like a volcan in eruption 🌋 chili chocolate lactose free made with #valrhona cocoa!… https://t.co/5ehE5BSKp4",
+        	"sentiment_score" : 0.7263,
+        	"time" : "Sat Aug 12 07:30:36 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [25.0377686, 60.2933524]
+        },
+        "properties" : {
+        	"id" : 896276056876896256,
+            "text": "See our latest #Vantaa, Uusimaa #job and click to apply: System Engineer, Instrument Product Care - https://t.co/KLhCiJvssD #Engineering",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sat Aug 12 07:43:58 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9375, 60.1708]
+        },
+        "properties" : {
+        	"id" : 896276227559960576,
+            "text": "Thanks to @flowfestival  for an amazing time on the Balloon 360 stage last night! xx @ Helsinki https://t.co/mXuBvFWvWd",
+        	"sentiment_score" : 0.7901,
+        	"time" : "Sat Aug 12 07:44:39 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9375, 60.170833]
+        },
+        "properties" : {
+        	"id" : 896276906458333184,
+            "text": "Senior Solution Architect, Linux, Tieto, Helsinki https://t.co/tanx7jBf7V #jobs #finland",
+        	"sentiment_score" : 0.3182,
+        	"time" : "Sat Aug 12 07:47:21 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896284161182400512,
+            "text": "Aphex Twin, huhu. 👌🏻 #flowfestival2017 @ Flow Festival Helsinki https://t.co/JeMc2DNphd",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sat Aug 12 08:16:10 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9346874, 60.2034769]
+        },
+        "properties" : {
+        	"id" : 896289070728564736,
+            "text": "Pleasantly surprised to see the level of autism being about the same in sci-fi and furry. (please send help)",
+        	"sentiment_score" : 0.6124,
+        	"time" : "Sat Aug 12 08:35:41 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [25.01869, 60.25932]
+        },
+        "properties" : {
+        	"id" : 896292571063996416,
+            "text": "Wonderful Ice Day! Little break in stock and again run! # Ice cream #makula # lunch break ... https://t.co/jpeQ3gu4El",
+        	"sentiment_score" : 0.6467,
+        	"time" : "Sat Aug 12 08:49:35 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.99821683, 60.25724432]
+        },
+        "properties" : {
+        	"id" : 896293274780028928,
+            "text": "The last of its kind: maintenance, washing, cafe, terrace in the right size. Older gentlemen ... https://t.co/wOPstsHfY3",
+        	"sentiment_score" : 0.5267,
+        	"time" : "Sat Aug 12 08:52:23 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896293953947013120,
+            "text": "Flo Festival Helsinki #work #soundengineer #monitors #lanadelrey #helsinki #flowfestival… https://t.co/gSpVKF3aG0",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sat Aug 12 08:55:05 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [25.0377686, 60.2933524]
+        },
+        "properties" : {
+        	"id" : 896296659939860480,
+            "text": "Want to work at Thermo Fisher Scientific? We're #hiring in #Vantaa, Uusimaa! Click for details: https://t.co/qMCbcxXBG6 #GeneralScience",
+        	"sentiment_score" : 0.1511,
+        	"time" : "Sat Aug 12 09:05:50 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896297744775741440,
+            "text": "Steampunk Belieber at Flow. 💔 #flowfestival 📷: juliuskonttinen @ Flow Festival Helsinki https://t.co/om2rnCVykP",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sat Aug 12 09:10:09 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896297957330362368,
+            "text": "Laura Canell was perhaps the best night in the evening ... as long as Little Britain Scottish ... https://t.co/hwszLxKXN1",
+        	"sentiment_score" : 0.6369,
+        	"time" : "Sat Aug 12 09:11:00 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.94911, 60.16628]
+        },
+        "properties" : {
+        	"id" : 896301737996279809,
+            "text": "hotelf6 Great hotel. Great bar.#finland #helsinki #hotel  #flowfestival2017 #flowfestival… https://t.co/NYkEjMjPlG",
+        	"sentiment_score" : 0.8481,
+        	"time" : "Sat Aug 12 09:26:01 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.96819, 60.20292]
+        },
+        "properties" : {
+        	"id" : 896302658000109568,
+            "text": "Once a while I shop groceries somewhere else than Lidl to stock up my guilty pleasures. @… https://t.co/UqpP2RsANn",
+        	"sentiment_score" : 0.0258,
+        	"time" : "Sat Aug 12 09:29:40 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896303864655355904,
+            "text": "calm before the storm 🌪karhustore @karhuofficial @flowfestival 📷 simbayu @ Flow Festival Helsinki https://t.co/STJhpgKhQb",
+        	"sentiment_score" : 0.6705,
+        	"time" : "Sat Aug 12 09:34:28 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.93694782, 60.20227699]
+        },
+        "properties" : {
+        	"id" : 896305196803817473,
+            "text": "Ok. NOW I'm starting to feel sorry for everyone else. Fourth book discovered. #worldcon75… https://t.co/s75hZjlcAr",
+        	"sentiment_score" : 0.2263,
+        	"time" : "Sat Aug 12 09:39:46 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [25.081413, 60.213503]
+        },
+        "properties" : {
+        	"id" : 896311393259048961,
+            "text": "Good and inexpensive. (@ Alaturka Barber in Helsinki, Uusimaa) https://t.co/SoH6CiMWWb",
+        	"sentiment_score" : 0.4404,
+        	"time" : "Sat Aug 12 10:04:23 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896317952777003009,
+            "text": "Its that time of the year again! My good friend biggandalf shows how to #FLOW#flow #flow2017… https://t.co/XlFHTqWrql",
+        	"sentiment_score" : 0.75,
+        	"time" : "Sat Aug 12 10:30:27 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.93, 60.17]
+        },
+        "properties" : {
+        	"id" : 896319694298329088,
+            "text": "current weather in Helsinki: clear sky, 22°C68% humidity, wind 5kmh, pressure 1009mb",
+        	"sentiment_score" : 0.1027,
+        	"time" : "Sat Aug 12 10:37:22 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896320080493109248,
+            "text": "yatosiba #soundcheck check #showtime 16:30 @ Flow Festival Helsinki https://t.co/UDu3TffCAt",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sat Aug 12 10:38:54 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9225, 60.1875]
+        },
+        "properties" : {
+        	"id" : 896320225154551809,
+            "text": "Would I be the first person with a living lively? Excellent hit eka kerraksi #akiriihilahti @ ... https://t.co/f8jxVQV6iE",
+        	"sentiment_score" : 0.765,
+        	"time" : "Sat Aug 12 10:39:29 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.951162, 60.17895583]
+        },
+        "properties" : {
+        	"id" : 896322741984473088,
+            "text": "Lunchtime! Great salmon soup on a nice summer day, having coffee at… https://t.co/W7mHkNJlBZ",
+        	"sentiment_score" : 0.8016,
+        	"time" : "Sat Aug 12 10:49:29 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896324067963305984,
+            "text": "Cheers to the weekend 🎈 @ Flow Festival Helsinki https://t.co/XV7otPcdwy",
+        	"sentiment_score" : 0.743,
+        	"time" : "Sat Aug 12 10:54:45 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896324748250165248,
+            "text": "Today&#39;s Flow is a really sweaty afternoon. #SAUCE @ Flow Festival Helsinki https://t.co/MFIXWvOEqn",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sat Aug 12 10:57:27 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [25.04, 60.3]
+        },
+        "properties" : {
+        	"id" : 896327121248763905,
+            "text": "Save water don't take shower anymore 😂😂😂😂 @ Vantaa, Finland https://t.co/Dvab1NqUud",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sat Aug 12 11:06:53 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896329313146032128,
+            "text": "Yesterday went with europaplusspb and with the winners of the draw at the Flow Festival Helsinki🌸 The festival itself ... https://t.co/ex7OAnuBtm",
+        	"sentiment_score" : 0.8591,
+        	"time" : "Sat Aug 12 11:15:35 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896330108373524481,
+            "text": "Black tent bar.. @ Flow Festival Helsinki https://t.co/AnW4m7BrAU",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sat Aug 12 11:18:45 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.93206909, 60.17495858]
+        },
+        "properties" : {
+        	"id" : 896331183885299713,
+            "text": "Art is like religion (@ National Museum of Finland in Helsinki, Uusimaa) https://t.co/gskinzkFvP https://t.co/yaFPcYtbdI",
+        	"sentiment_score" : 0.3612,
+        	"time" : "Sat Aug 12 11:23:01 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896332559432298496,
+            "text": "@lanadelrey was wonderful 🎶💖 📷: clifk4..#flowfestival2017 #lanadelrey #music #summer @ Flow… https://t.co/dvqpOb0FGS",
+        	"sentiment_score" : 0.5719,
+        	"time" : "Sat Aug 12 11:28:29 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896333570947637248,
+            "text": "Didn't se to many artists yesterday but the ones I saw were brilliant. #aphextwin #lanadelrey… https://t.co/rQz4r29462",
+        	"sentiment_score" : 0.7351,
+        	"time" : "Sat Aug 12 11:32:31 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.938379, 60.1698557]
+        },
+        "properties" : {
+        	"id" : 896337894071087104,
+            "text": "Can you recommend anyone for this #job? Account Manager - https://t.co/6fG8gxDl4y #DellJobs #Helsinki #Hiring #CareerArc",
+        	"sentiment_score" : 0.3612,
+        	"time" : "Sat Aug 12 11:49:41 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.92921268, 60.20561325]
+        },
+        "properties" : {
+        	"id" : 896339802148274176,
+            "text": "Ok let's do this. (at @HartwallArena in Helsinki, Uusimaa w/ @kuivalainen) https://t.co/TXj9Ki2i6c https://t.co/aLjE1q05IT",
+        	"sentiment_score" : 0.296,
+        	"time" : "Sat Aug 12 11:57:16 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896348886683594752,
+            "text": "All the honor for the young. Damn what we are doing. 👊🏼👊🏼👊🏼 @toolonkettera # flowfestival2017 @ Flow ... https://t.co/hezU2MYHgV",
+        	"sentiment_score" : 0.128,
+        	"time" : "Sat Aug 12 12:33:22 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9375, 60.1708]
+        },
+        "properties" : {
+        	"id" : 896351975716962305,
+            "text": "Vegan good 💖 #vegangood #veganlife #benandjerrys #nondairy #mansikka # ice cream @ Helsinki https://t.co/fG3HXW6VEG",
+        	"sentiment_score" : 0.4404,
+        	"time" : "Sat Aug 12 12:45:39 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9375, 60.1708]
+        },
+        "properties" : {
+        	"id" : 896353253767745537,
+            "text": "Today's hunt was to catch the wild Unown, spelling out the word EUROPE.  Success!  #pokemongo… https://t.co/PPOIxYlpYm",
+        	"sentiment_score" : 0.6114,
+        	"time" : "Sat Aug 12 12:50:43 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.93102488, 60.18306123]
+        },
+        "properties" : {
+        	"id" : 896356857979293697,
+            "text": "Helsinginkatu (Helsinki). Marathon race between Mannerheimintie - Sturenkatu. Significant harms.https: //t.co/mRG3eqc8uP",
+        	"sentiment_score" : 0.2023,
+        	"time" : "Sat Aug 12 13:05:03 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9375, 60.1708]
+        },
+        "properties" : {
+        	"id" : 896357023893274624,
+            "text": "How bloody cute is this shop front 😍 #wildthingshelsinki #flowers #helsinki #hipster @ Helsinki https://t.co/479l3EMPwL",
+        	"sentiment_score" : 0.0258,
+        	"time" : "Sat Aug 12 13:05:42 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.4412965, 60.1234932]
+        },
+        "properties" : {
+        	"id" : 896358056358854657,
+            "text": "Want to work at Ericsson? We're #hiring in #kirkkonummi! Click for details: https://t.co/EwFzZM9ind #RealEstate #Job #Jobs",
+        	"sentiment_score" : 0.1511,
+        	"time" : "Sat Aug 12 13:09:48 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.93193, 60.17162]
+        },
+        "properties" : {
+        	"id" : 896359068725465094,
+            "text": "# Museum of Natural History #museum #helsinki @ Natural History Museum https://t.co/YgLWK5cXsa",
+        	"sentiment_score" : 0.6124,
+        	"time" : "Sat Aug 12 13:13:50 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.46056, 60.10046]
+        },
+        "properties" : {
+        	"id" : 896360655665496064,
+            "text": "Pre @flowfestival golf!! In a couple of hours some music, refreshments and 25k friends in… https://t.co/yXYHgPRN6B",
+        	"sentiment_score" : 0.5696,
+        	"time" : "Sat Aug 12 13:20:08 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896363289139068934,
+            "text": "The Holy #blacktent #flow2017 @ Flow Festival Helsinki https://t.co/eXLG4BtXAV",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sat Aug 12 13:30:36 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.98125648, 60.14926529]
+        },
+        "properties" : {
+        	"id" : 896366313290948610,
+            "text": "Sea air. What could be better! @ Suomenlinna https://t.co/8Vr93oWcYQ",
+        	"sentiment_score" : 0.4926,
+        	"time" : "Sat Aug 12 13:42:37 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896366327459434496,
+            "text": "Spotlights, dry ice &amp; rock poses #theholy #flow2017 @ Flow Festival Helsinki https://t.co/bopOVAzNPa",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sat Aug 12 13:42:40 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.93694782, 60.20227699]
+        },
+        "properties" : {
+        	"id" : 896368370127384581,
+            "text": "This is so hilarious! I was just taking a pic of the 🚀 in the trade hall and found my fifth book… https://t.co/f4dAKZ5cfK",
+        	"sentiment_score" : 0.5836,
+        	"time" : "Sat Aug 12 13:50:47 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9341738, 60.2030605]
+        },
+        "properties" : {
+        	"id" : 896369844790198272,
+            "text": "So excited to be here at #worldcon75We should have this again in #Helsinki right? https://t.co/vrU4TFKqg8",
+        	"sentiment_score" : 0.4005,
+        	"time" : "Sat Aug 12 13:56:39 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896369961672753153,
+            "text": "We live and love red 💥 @flowfestivalhttps://t.co/ngotUdiY9R @ Flow… https://t.co/2WVEeW7fnx",
+        	"sentiment_score" : 0.6369,
+        	"time" : "Sat Aug 12 13:57:07 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896374477180723206,
+            "text": "Blue skies so far at #flow2017 #day2 @ Flow Festival Helsinki https://t.co/cETztOY105",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sat Aug 12 14:15:03 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896375323553665024,
+            "text": "#flowfestival2017 @ Flow Festival Helsinki https://t.co/qtVaboSQYN",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sat Aug 12 14:18:25 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.4412965, 60.1234932]
+        },
+        "properties" : {
+        	"id" : 896378221737803777,
+            "text": "Can you recommend anyone for this #job? Ericsson Early Career Program 2017, Business Support Systems... - https://t.co/guyGMwyQXY #Hiring",
+        	"sentiment_score" : 0.6369,
+        	"time" : "Sat Aug 12 14:29:56 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896378292076507141,
+            "text": "Pykäri feat. Ahjo Ensemble #backingchoir # flow2017 #mainstage #prismafilter @ Flow Festival ... https://t.co/yhO1Tfv8ts",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sat Aug 12 14:30:13 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896379146669932545,
+            "text": "just like old times @ Flow Festival Helsinki https://t.co/KopMq5RqNz",
+        	"sentiment_score" : 0.6908,
+        	"time" : "Sat Aug 12 14:33:37 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.6556, 60.2056]
+        },
+        "properties" : {
+        	"id" : 896379859169140736,
+            "text": "There's no best gift than a sibling. It's a bond that forces us to learn to appreciate other… https://t.co/p079ZMGUbL",
+        	"sentiment_score" : 0.8225,
+        	"time" : "Sat Aug 12 14:36:27 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.88270796, 60.20282943]
+        },
+        "properties" : {
+        	"id" : 896381508352708608,
+            "text": "@FtoomaWah Are you okay",
+        	"sentiment_score" : 0.2263,
+        	"time" : "Sat Aug 12 14:43:00 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896382533411250176,
+            "text": "Mio / Run #pykärifeatahjoensemble #flow2017 @ Flow Festival Helsinki https://t.co/3Rj3hv50jF",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sat Aug 12 14:47:04 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896385735116410881,
+            "text": "Day 2 starts with #ambient, yoga and sun...but dark clouds gathering 🌦☇ @ Flow Festival Helsinki https://t.co/Gh90PZPeDD",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sat Aug 12 14:59:47 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896387128770383872,
+            "text": "#flowfestival2017 @ Flow Festival Helsinki https://t.co/dLySZRtb8S",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sat Aug 12 15:05:20 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.93694782, 60.20227699]
+        },
+        "properties" : {
+        	"id" : 896387559634468864,
+            "text": "The winner of the academic poster presentation  #Worldcon75  @M0rtuum à Worldcon 75 https://t.co/n4cKA27O5Q",
+        	"sentiment_score" : 0.5859,
+        	"time" : "Sat Aug 12 15:07:02 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.92986679, 60.15210047]
+        },
+        "properties" : {
+        	"id" : 896387596091219968,
+            "text": "Current view at the sauna. Pretty sure I swore when going from sauna to sea 😂 #löyly #helsinki… https://t.co/Oa40TSrwUv",
+        	"sentiment_score" : 0.6705,
+        	"time" : "Sat Aug 12 15:07:11 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.6556, 60.2056]
+        },
+        "properties" : {
+        	"id" : 896390344262144000,
+            "text": "Summer&#39;s warm day ☀️ @ Espoo, Finland https://t.co/z5Y2BNnp1O",
+        	"sentiment_score" : 0.2263,
+        	"time" : "Sat Aug 12 15:18:06 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896390424239132672,
+            "text": "&quot;Dear Friends - We Are #Sparks!&quot; #languageskills #kielitaito ... Last time I saw these jokers ... https://t.co/QA0W0m6z1w",
+        	"sentiment_score" : 0.5255,
+        	"time" : "Sat Aug 12 15:18:25 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.952834, 60.166015]
+        },
+        "properties" : {
+        	"id" : 896391315570741249,
+            "text": "Looks like it's gonna rain #Helsinki (@ old market hall in Helsinki, Uusimaa) https://t.co/ebXc2OlJhd https://t.co/8Nu1YyrLZm",
+        	"sentiment_score" : 0.3612,
+        	"time" : "Sat Aug 12 15:21:58 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896391694903525378,
+            "text": "Ihana SOFIA ❤ #flow2017 #blondshavemorefun #tallinnreunion @ Flow Festival Helsinki https://t.co/iMco387ee6",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sat Aug 12 15:23:28 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.4412965, 60.1234932]
+        },
+        "properties" : {
+        	"id" : 896393534135164928,
+            "text": "Can you recommend anyone for this #job in #Kirkkonummi? https://t.co/6NeUroyvri #Ericsson #internship #Hiring",
+        	"sentiment_score" : 0.3612,
+        	"time" : "Sat Aug 12 15:30:47 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896394543494574080,
+            "text": "MOI @ Flow Festival Helsinki https://t.co/Ug7nb1eLg6",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sat Aug 12 15:34:48 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.98125648, 60.14926529]
+        },
+        "properties" : {
+        	"id" : 896396249062141953,
+            "text": "Spent a lovely afternoon wandering and exploring around the island of Suomenlinna with Wiebe and… https://t.co/myfM1IdKL1",
+        	"sentiment_score" : 0.5859,
+        	"time" : "Sat Aug 12 15:41:34 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896396883991461888,
+            "text": "Супер напиток на супер фестивале🤘🏻🔥#flowfestival2017 @ Flow Festival Helsinki https://t.co/cTp5T4C3Bf",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sat Aug 12 15:44:06 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.98125648, 60.14926529]
+        },
+        "properties" : {
+        	"id" : 896398237921398784,
+            "text": "I took a ferry over to Suomenlinna, a sea fortress that had a role in the defense of Sweden,… https://t.co/YURMsylhyu",
+        	"sentiment_score" : 0.128,
+        	"time" : "Sat Aug 12 15:49:28 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896399654513922048,
+            "text": "Just three words: Lana, you&#39;re the best! • #lanadelrey #helsinki #finland # ShotoniPhone ... https://t.co/7TzrGF3yzg",
+        	"sentiment_score" : 0.6696,
+        	"time" : "Sat Aug 12 15:55:06 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9375, 60.1708]
+        },
+        "properties" : {
+        	"id" : 896401050734702592,
+            "text": "Awww yeah awesome #vegetarian #bibimbap #korean #homecooking #food #korea #chili #gochujang @… https://t.co/21zt0YKJ3l",
+        	"sentiment_score" : 0.743,
+        	"time" : "Sat Aug 12 16:00:39 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [25.02832532, 60.28350421]
+        },
+        "properties" : {
+        	"id" : 896401397180248065,
+            "text": "Maestro New Orleans rocks like a deer! 🤘🏻 (@ McDonald&#39;s in Helsinki) https://t.co/MXeYJYieB6 https://t.co/4noGZ9a39j",
+        	"sentiment_score" : 0.4199,
+        	"time" : "Sat Aug 12 16:02:02 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.76404, 60.1675]
+        },
+        "properties" : {
+        	"id" : 896401730283474944,
+            "text": "Enjoying the Flow weekend somewhere inside! @ Remedy https://t.co/cPA2d1JDbD",
+        	"sentiment_score" : 0.5707,
+        	"time" : "Sat Aug 12 16:03:21 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896401795378892801,
+            "text": "How do I explain to a foreigner? #loiriplukari @ Flow Festival Helsinki https://t.co/qZtaPHn98Q",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sat Aug 12 16:03:37 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.66935278, 60.18008043]
+        },
+        "properties" : {
+        	"id" : 896402212125126661,
+            "text": "Weather alert from Espoo for all # flowfestival2017 for participants @ Espoo Finnland https://t.co/ATuKgZJtp9",
+        	"sentiment_score" : 0.296,
+        	"time" : "Sat Aug 12 16:05:16 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896403974558855169,
+            "text": "Here it comes ⛈⛈⛈ main stage stopped ... running for cover @ Flow Festival Helsinki https://t.co/A2YSBNpNSG",
+        	"sentiment_score" : 0.3182,
+        	"time" : "Sat Aug 12 16:12:16 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97144447, 60.31095139]
+        },
+        "properties" : {
+        	"id" : 896407542594764800,
+            "text": "got really strong thunder in here @ Taksien Keräilyalue https://t.co/DYLeGy5z9y",
+        	"sentiment_score" : 0.5563,
+        	"time" : "Sat Aug 12 16:26:27 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.75855497, 60.19132058]
+        },
+        "properties" : {
+        	"id" : 896409253266599936,
+            "text": "Fun way to get acquainted with # erikah40 😎✌🏼 @ Mankkaa, Etelä-Suomen Lääni, Finland https://t.co/pcvIZxgOoF",
+        	"sentiment_score" : 0.5106,
+        	"time" : "Sat Aug 12 16:33:15 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9311, 60.1967]
+        },
+        "properties" : {
+        	"id" : 896409627230973952,
+            "text": "Before and after the storm. My salad had gone wild but the nature tamed it and made sure I'll… https://t.co/mIHLx2Hhxt",
+        	"sentiment_score" : 0.4497,
+        	"time" : "Sat Aug 12 16:34:44 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.4333, 60.1167]
+        },
+        "properties" : {
+        	"id" : 896410711974223873,
+            "text": "27km cycling, swim, grilling and smoking fish for our daughter's confirmation party which is… https://t.co/gyPXk3Gx9h",
+        	"sentiment_score" : 0.4019,
+        	"time" : "Sat Aug 12 16:39:02 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896411811968278528,
+            "text": "Thunderstorm, rain. Power works happily. # Flowfestival2017 @ Flow Festival Helsinki https://t.co/iWpmtQ4Ktv",
+        	"sentiment_score" : 0.7783,
+        	"time" : "Sat Aug 12 16:43:25 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896411944575520774,
+            "text": "Tip: wear a swimsuit for a rainy weather #flowfestival @ Flow Festival Helsinki https://t.co/Typ3i9xeDw",
+        	"sentiment_score" : 0.4404,
+        	"time" : "Sat Aug 12 16:43:56 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.88996231, 60.22812232]
+        },
+        "properties" : {
+        	"id" : 896412119775752192,
+            "text": "After a nice sunny and warm day... An electric storm surprised us...… https://t.co/7kMsMNoxkZ",
+        	"sentiment_score" : 0.8126,
+        	"time" : "Sat Aug 12 16:44:38 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.88996231, 60.22812232]
+        },
+        "properties" : {
+        	"id" : 896412655631642624,
+            "text": "Active #Finns don't even wait for #firedepartment #haaga #finland 👍🏻#thunderstorm #helsinki… https://t.co/edq5BaWix7",
+        	"sentiment_score" : 0.4019,
+        	"time" : "Sat Aug 12 16:46:46 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.86015939, 60.15806413]
+        },
+        "properties" : {
+        	"id" : 896413549710516224,
+            "text": "There was a little wind and rain in that thunder, and it was quite beautiful. However ... https://t.co/igDa7lqvsq",
+        	"sentiment_score" : 0.6361,
+        	"time" : "Sat Aug 12 16:50:19 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.98125648, 60.14926529]
+        },
+        "properties" : {
+        	"id" : 896413739099889664,
+            "text": "My boys would love exploring Suomenlinna/Sveaborg-there's a dry dock (one of the oldest in the… https://t.co/3zCbIAx6Pn",
+        	"sentiment_score" : 0.6369,
+        	"time" : "Sat Aug 12 16:51:04 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9348897, 60.20284416]
+        },
+        "properties" : {
+        	"id" : 896415362669051905,
+            "text": "The thunderstorm is affecting electricity at #WorldCon75. We had a slight glitch at the masqrd camera control but the stream survived. #phew",
+        	"sentiment_score" : 0.6652,
+        	"time" : "Sat Aug 12 16:57:31 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9375, 60.1708]
+        },
+        "properties" : {
+        	"id" : 896415448316686336,
+            "text": "The wondrous world of Geocaching. #ReumaGeo # shop for good ... https://t.co/yAR1faQBut",
+        	"sentiment_score" : 0.4404,
+        	"time" : "Sat Aug 12 16:57:52 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [25.03643113, 60.29345816]
+        },
+        "properties" : {
+        	"id" : 896415618060234752,
+            "text": "Went to a friend greeted promptly. (@ Tikkurila / Dickursby in Vantaa w / @ riq98) https://t.co/8NfsJcGKZm https://t.co/Fxbs4SKgIp",
+        	"sentiment_score" : 0.6486,
+        	"time" : "Sat Aug 12 16:58:32 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9375, 60.1708]
+        },
+        "properties" : {
+        	"id" : 896419948712665088,
+            "text": "Today I had an opportunity to visit Clematis specialist, Börje Fri garden center. #I💗Clematis… https://t.co/PV29ZiJSOA",
+        	"sentiment_score" : 0.4215,
+        	"time" : "Sat Aug 12 17:15:45 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.95977312, 60.20693925]
+        },
+        "properties" : {
+        	"id" : 896420570224623616,
+            "text": "Played a 45 minute set today and concluded it with a spontaneous improvised version of… https://t.co/hfABi8QgH6",
+        	"sentiment_score" : 0.34,
+        	"time" : "Sat Aug 12 17:18:13 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.93694782, 60.20227699]
+        },
+        "properties" : {
+        	"id" : 896431452350435328,
+            "text": "There's an actual summer storm going through Helsinki. And it is beautiful. #worldcon75 @… https://t.co/BgbuKTYnw1",
+        	"sentiment_score" : 0.5994,
+        	"time" : "Sat Aug 12 18:01:27 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9428196, 60.1641388]
+        },
+        "properties" : {
+        	"id" : 896431831989592068,
+            "text": "Don't mess with #theriffhelsinki staff😎 i'm so lucky to have the best damn bartenders and pros… https://t.co/GgG0C669fm",
+        	"sentiment_score" : 0.8034,
+        	"time" : "Sat Aug 12 18:02:58 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9739764, 60.1856919]
+        },
+        "properties" : {
+        	"id" : 896433863144214529,
+            "text": "2017/09/09: Helsinki, Finland: Wall of Sound at Funky Elephant Festival 2017 https://t.co/Wn9y0OD8pQ https://t.co/cR5ZyctP9L",
+        	"sentiment_score" : 0.4215,
+        	"time" : "Sat Aug 12 18:11:02 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.93309, 60.2002569]
+        },
+        "properties" : {
+        	"id" : 896435350222114816,
+            "text": "#myrsky over, a great evening. Trains are delayed https://t.co/uifO4LjQci",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sat Aug 12 18:16:57 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.96667, 60.16667]
+        },
+        "properties" : {
+        	"id" : 896436381236559872,
+            "text": "Good evening #Helsinki! Sun will set in 30 minutes (local time 21:21) #Sunset #Photo #Photography [12.08.2017]",
+        	"sentiment_score" : 0.4926,
+        	"time" : "Sat Aug 12 18:21:02 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [25.3516861, 60.1684096]
+        },
+        "properties" : {
+        	"id" : 896437985633239041,
+            "text": "Handsome was the front and seats were available #ukkonen #kaunissaari #salama https://t.co/NRbM4hb1cV",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sat Aug 12 18:27:25 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.2817257, 60.34168449]
+        },
+        "properties" : {
+        	"id" : 896439775573319680,
+            "text": "Fine summer evening #nummela #vihti #finland #summer #hiidenvesi #lake @ Hiipun Maja https://t.co/rbFJu0hHdW",
+        	"sentiment_score" : 0.2023,
+        	"time" : "Sat Aug 12 18:34:32 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9375, 60.1708]
+        },
+        "properties" : {
+        	"id" : 896441188940742658,
+            "text": "A trip to ... Sky wheel where fun scenery through a panoramic view ... @ Helsinki https://t.co/WZ4b02tszc",
+        	"sentiment_score" : 0.5106,
+        	"time" : "Sat Aug 12 18:40:09 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.92986679, 60.15210047]
+        },
+        "properties" : {
+        	"id" : 896448901737304066,
+            "text": "Just before the huge thunderstorm rolled in. #thunderstorm #löyly #helsinki #balticsea @ Löyly https://t.co/D4Nq1DDCpP",
+        	"sentiment_score" : 0.3182,
+        	"time" : "Sat Aug 12 19:10:48 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.74923915, 60.149326]
+        },
+        "properties" : {
+        	"id" : 896449762760773632,
+            "text": "Sun does not need to be the fastest one of the year, as long as you do not drop the fence. Sally Pearson is back! #mmlontoo # MMlontoo2017",
+        	"sentiment_score" : 0.2746,
+        	"time" : "Sat Aug 12 19:14:13 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.90680155, 60.1739517]
+        },
+        "properties" : {
+        	"id" : 896451478998700032,
+            "text": "Advent adventures to Hietsun🐒⚡️🌊☔️ #oumama #sol # thunder # adventure #ulsanbawi # stormkoke @ Hietsu https://t.co/AAgjOPULAi",
+        	"sentiment_score" : 0.5719,
+        	"time" : "Sat Aug 12 19:21:02 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9428196, 60.1641388]
+        },
+        "properties" : {
+        	"id" : 896455474807222272,
+            "text": "My week with pics in this weekend issue of @iltasanomat thanks #iltasanomat 🙏 #jussi69 @ The… https://t.co/GPeP9VI95b",
+        	"sentiment_score" : 0.4404,
+        	"time" : "Sat Aug 12 19:36:55 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896459967666016256,
+            "text": "@flowfestival The calm before the beautiful storm #finland #helsinki #bar #privateisland… https://t.co/ArMDRbclKN",
+        	"sentiment_score" : 0.7351,
+        	"time" : "Sat Aug 12 19:54:46 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9375, 60.1708]
+        },
+        "properties" : {
+        	"id" : 896460873950044160,
+            "text": "Daaaamn... well the weather took a turn for the dramatic #Helsinkistorm #Finland #Storm #Weather… https://t.co/2pxoDbpswM",
+        	"sentiment_score" : 0.2732,
+        	"time" : "Sat Aug 12 19:58:22 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896462477944209408,
+            "text": "The XX ❤️❤️❤️ @ Flow Festival Helsinki https://t.co/p78EAUcGRO",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sat Aug 12 20:04:44 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896463069995560960,
+            "text": "We just love ❤️ #mibrasa #flowfest #flowfestival2017 #flowfood #flowfestival #burgers… https://t.co/O3RvdqQYxZ",
+        	"sentiment_score" : 0.6369,
+        	"time" : "Sat Aug 12 20:07:06 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.5, 60.25]
+        },
+        "properties" : {
+        	"id" : 896465517694922752,
+            "text": "Amazing sky : mama clouds after the storm above Helsinki's suburb.… https://t.co/ZnwiRUfCIL",
+        	"sentiment_score" : 0.5859,
+        	"time" : "Sat Aug 12 20:16:49 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.90680155, 60.1739517]
+        },
+        "properties" : {
+        	"id" : 896465721420632066,
+            "text": "Storm Hurricane Thunder Dance # Bulk #ulsanbawi # Adventure # Sunset #dans #hav # Beach # MyS ... https://t.co/aoMOuQ5kQE",
+        	"sentiment_score" : 0.3182,
+        	"time" : "Sat Aug 12 20:17:38 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.92916, 60.2057]
+        },
+        "properties" : {
+        	"id" : 896468335117778944,
+            "text": "If you find yourself in the picture and want to be tagged in the picture, please post here ... https://t.co/dq4vhc41pg",
+        	"sentiment_score" : 0.3818,
+        	"time" : "Sat Aug 12 20:28:01 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896470559445233664,
+            "text": "Just posted a photo @ Flow Festival Helsinki https://t.co/dQ7DW4ELFA",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sat Aug 12 20:36:51 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9375, 60.1708]
+        },
+        "properties" : {
+        	"id" : 896470610087297024,
+            "text": "Only get to hold the Rocket briefly at the rehearsal but I'm incredibly grateful to be a… https://t.co/pr4PNxX6ll",
+        	"sentiment_score" : 0.664,
+        	"time" : "Sat Aug 12 20:37:03 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.79275227, 60.22749634]
+        },
+        "properties" : {
+        	"id" : 896473553142390785,
+            "text": "Just posted a photo @ Adventure Park Peak https://t.co/ghpeMeS8ZY",
+        	"sentiment_score" : 0.3182,
+        	"time" : "Sat Aug 12 20:48:45 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.88244668, 60.20274045]
+        },
+        "properties" : {
+        	"id" : 896476043263062016,
+            "text": "Oh Todd... Pretty sure even Chris Carter couldn't do that. #Yankees",
+        	"sentiment_score" : 0.6705,
+        	"time" : "Sat Aug 12 20:58:39 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [25.07657596, 60.27082811]
+        },
+        "properties" : {
+        	"id" : 896477107894616064,
+            "text": "Calm after the storm ☯️☯️ #kiiramyrsky #afterstorm #thosecolors #howgreatthouart #gratitude @… https://t.co/0Vr5yg0kIe",
+        	"sentiment_score" : 0.3182,
+        	"time" : "Sat Aug 12 21:02:52 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.88282058, 60.20281013]
+        },
+        "properties" : {
+        	"id" : 896481590502731778,
+            "text": "I feel like we need a miracle to salvage this game. But our #1 miracle maker (Judge) has been AWOL for such a long time... #Yankees",
+        	"sentiment_score" : 0.7945,
+        	"time" : "Sat Aug 12 21:20:41 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97706906, 60.18150365]
+        },
+        "properties" : {
+        	"id" : 896482073468424193,
+            "text": "For festivals, there are some dwarf canes, from which the shorter ones could see the gig more than the ceiling lights. #FlowFestival #flume",
+        	"sentiment_score" : 0.3612,
+        	"time" : "Sat Aug 12 21:22:36 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896482604744048640,
+            "text": "#thexx #flow #flowfestival2017 #flowfestival @ Flow Festival Helsinki https://t.co/UrkOm1dYrx",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sat Aug 12 21:24:43 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896484585248260096,
+            "text": "You just published a photo @ Flow Festival Helsinki https://t.co/P5TOC4j8x5",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sat Aug 12 21:32:35 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896489020808548352,
+            "text": "After the storm, there is a party. #flowfestival #helsinki #thexx #flume @ Flow Festival Helsinki https://t.co/5UT8VDWluN",
+        	"sentiment_score" : 0.7096,
+        	"time" : "Sat Aug 12 21:50:13 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9402, 60.16397]
+        },
+        "properties" : {
+        	"id" : 896489662218457090,
+            "text": "Same porch, different family function @ Graduation Party https://t.co/Cj6PvWtxKh",
+        	"sentiment_score" : 0.4019,
+        	"time" : "Sat Aug 12 21:52:46 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896491289214042112,
+            "text": "🌹 day 2: even a storm can't stop us #flowfestival 🌹 @ Flow Festival Helsinki https://t.co/DGallG6Xda",
+        	"sentiment_score" : 0.6234,
+        	"time" : "Sat Aug 12 21:59:14 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.88228724, 60.20273559]
+        },
+        "properties" : {
+        	"id" : 896491379525734400,
+            "text": "@nyyanksfan23 Or Girardi is making sure it won't happen by bringing in a very unproven rookie pitcher... And how is… https://t.co/bzgm2dbguX",
+        	"sentiment_score" : 0.3182,
+        	"time" : "Sat Aug 12 21:59:35 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97203419, 60.18653346]
+        },
+        "properties" : {
+        	"id" : 896491417601572864,
+            "text": "Storm damage: Pretty clear why the Balloon Stage stayed closed; even the bike park suffered… https://t.co/XP8H5pvB1z",
+        	"sentiment_score" : 0.3818,
+        	"time" : "Sat Aug 12 21:59:44 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896492025469693952,
+            "text": "Finnish Flash at Landon Champagne Bar #helsinki#flowfestival @ Flow Festival Helsinki https://t.co/yNs0EyBmaE",
+        	"sentiment_score" : 0.6597,
+        	"time" : "Sat Aug 12 22:02:09 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896499180813864961,
+            "text": "#blacktent #flowfestival2017 #deathgrips #flowfestival @ Flow Festival Helsinki https://t.co/C2cpN9rWGG",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sat Aug 12 22:30:35 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896501921007251457,
+            "text": "Shortly about my 1st day of the #flowfestival2017 #saturday @ Flow Festival Helsinki https://t.co/NZaBh24gui",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sat Aug 12 22:41:28 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.94626369, 60.17097099]
+        },
+        "properties" : {
+        	"id" : 896503437004861441,
+            "text": "Party up #edm #dj #djlife mollymaloneshelsinki @ Molly Malone's Helsinki https://t.co/KpBJsydBrx",
+        	"sentiment_score" : 0.4019,
+        	"time" : "Sat Aug 12 22:47:30 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.88325892, 60.20284636]
+        },
+        "properties" : {
+        	"id" : 896503728563408896,
+            "text": "Okay I have to admit Giovanny Gallegos exceeded my expectations after nervy first 10 pitches or so. Good to see, but still behind. #Yankees",
+        	"sentiment_score" : 0.4974,
+        	"time" : "Sat Aug 12 22:48:39 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896504880428326912,
+            "text": "Good ol' Goldfrapp @ Flow Festival Helsinki https://t.co/7Xr2YM5KV2",
+        	"sentiment_score" : 0.7269,
+        	"time" : "Sat Aug 12 22:53:14 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896505831209844736,
+            "text": "Shortly about my 1st day of the #flowfestival2017 @ Flow Festival Helsinki https://t.co/Qsz4nvhlXA",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sat Aug 12 22:57:01 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896506974317236224,
+            "text": "#thexx #flowfestival2017 #xx @ Flow Festival Helsinki https://t.co/ZNMx3IKlma",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sat Aug 12 23:01:33 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.88254332, 60.20280035]
+        },
+        "properties" : {
+        	"id" : 896511127617769472,
+            "text": "Headley, now Ellsbury. At least something to smile about... #Yankees",
+        	"sentiment_score" : 0.3612,
+        	"time" : "Sat Aug 12 23:18:03 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9375, 60.1708]
+        },
+        "properties" : {
+        	"id" : 896514948989239297,
+            "text": "Senaatintori and Suomenlinna in Helsinki, Finland 🇫🇮. Definitely not… https://t.co/7jJJhqka7U",
+        	"sentiment_score" : 0.4019,
+        	"time" : "Sat Aug 12 23:33:14 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.92984017, 60.16811465]
+        },
+        "properties" : {
+        	"id" : 896515884742840320,
+            "text": "@AnnikaOBrien @joseiswriting I thought you were a better person than that, Annika.",
+        	"sentiment_score" : 0.4404,
+        	"time" : "Sat Aug 12 23:36:58 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.74302924, 60.15930599]
+        },
+        "properties" : {
+        	"id" : 896522786709090304,
+            "text": "@Switching in the festivals in the mainland. : D",
+        	"sentiment_score" : 0.3612,
+        	"time" : "Sun Aug 13 00:04:23 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9383, 60.1698]
+        },
+        "properties" : {
+        	"id" : 896558986664837120,
+            "text": "Good morning, Helsinki! :) #Sunrise 05:28, noon 13:25, sunset 21:20 EEST (UTC+3), August 13. Day length: 15h 52m.",
+        	"sentiment_score" : 0.7345,
+        	"time" : "Sun Aug 13 02:28:14 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.96667, 60.16667]
+        },
+        "properties" : {
+        	"id" : 896559438970195968,
+            "text": "Good morning #Helsinki! Sun will rise in 30 minutes (local time 05:30) #Sunrise #Photo #Photography [13.08.2017]",
+        	"sentiment_score" : 0.4926,
+        	"time" : "Sun Aug 13 02:30:02 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.8839798, 60.1811485]
+        },
+        "properties" : {
+        	"id" : 896605645440339969,
+            "text": "The happiness of your life depends on your quality of your thoughts… https://t.co/gPtAp7mbPX",
+        	"sentiment_score" : 0.5574,
+        	"time" : "Sun Aug 13 05:33:38 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.98435795, 60.14896288]
+        },
+        "properties" : {
+        	"id" : 896618032025436160,
+            "text": "- love to love a person and happiness is not associated with caution ah love and not love is not too far from like a person want him to be happy I can love a person who does not love me do not love me but will not fall in love with me #December # 2014 ... https://t.co/mxYlPyNvyk",
+        	"sentiment_score" : 0.9809,
+        	"time" : "Sun Aug 13 06:22:51 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896623491700727809,
+            "text": "Today is my final day in Helsinki, and the last day of the Flow Festival. This country of… https://t.co/QCunYKEG6M",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sun Aug 13 06:44:33 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896623814712451072,
+            "text": "The XX and ... #flowfestival2017 @ Flow Festival Helsinki https://t.co/htbCZUBac1",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sun Aug 13 06:45:50 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896624163867250688,
+            "text": "... my all time favorite lasers #flowfestival2017 @ Flow Festival Helsinki https://t.co/r1I07jmdDL",
+        	"sentiment_score" : 0.7351,
+        	"time" : "Sun Aug 13 06:47:13 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896630634189393920,
+            "text": "The xx #nofilter and #amazing #flowfestival #Helsinki @ Flow Festival Helsinki https://t.co/SvyA9L0pr0",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sun Aug 13 07:12:56 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896630981582606336,
+            "text": "The xx, what a night! #flowfestival @ Flow Festival Helsinki https://t.co/RsNr9uDfb3",
+        	"sentiment_score" : 0.5411,
+        	"time" : "Sun Aug 13 07:14:19 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.93694782, 60.20227699]
+        },
+        "properties" : {
+        	"id" : 896633308293017600,
+            "text": "Day 5. Can't decide if I'm happy or sad that it's the last day. #sotired #mustbegettingold… https://t.co/G68ZxCcamd",
+        	"sentiment_score" : 0.1531,
+        	"time" : "Sun Aug 13 07:23:33 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.4412965, 60.1234932]
+        },
+        "properties" : {
+        	"id" : 896633544486735872,
+            "text": "Want to work at Ericsson? We're #hiring in #kirkkonummi! Click for details: https://t.co/pp8ZFENViz #Ericsson #OpenSource #Job #Jobs",
+        	"sentiment_score" : 0.1511,
+        	"time" : "Sun Aug 13 07:24:30 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.4412965, 60.1234932]
+        },
+        "properties" : {
+        	"id" : 896636639413280769,
+            "text": "This #job might be a great fit for you: Senior IoT (Internet of Things) &amp; Cloud Software Developer - https://t.co/ttTfcY8vRG #OpenSource",
+        	"sentiment_score" : 0.765,
+        	"time" : "Sun Aug 13 07:36:48 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9375, 60.1708]
+        },
+        "properties" : {
+        	"id" : 896638436278505472,
+            "text": "Further Finnish Food Adventures: @ Helsinki https://t.co/q4WvLJhhFE",
+        	"sentiment_score" : 0.34,
+        	"time" : "Sun Aug 13 07:43:56 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.93627905, 60.20310142]
+        },
+        "properties" : {
+        	"id" : 896646127138742272,
+            "text": "She gave me a coffee cause she says I'm the best handbag ever. I don't know what she expects me… https://t.co/zDJNVdX8TK",
+        	"sentiment_score" : 0.6369,
+        	"time" : "Sun Aug 13 08:14:30 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.92973175, 60.31803112]
+        },
+        "properties" : {
+        	"id" : 896648101771051008,
+            "text": "Good bye Helsinki! I was so pleased to be there for the worlcon and to meet @nathl and moortum.… https://t.co/2TsGuMgZPZ",
+        	"sentiment_score" : 0.7866,
+        	"time" : "Sun Aug 13 08:22:21 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896653226598178816,
+            "text": "#nofilter #flowfestival @ Flow Festival Helsinki https://t.co/Nowsc0HdpV",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sun Aug 13 08:42:42 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896654738833498113,
+            "text": "Last night was the third time I've seen thexx this last year and never do they disappoint. One… https://t.co/GRgSflTTWv",
+        	"sentiment_score" : 0.3089,
+        	"time" : "Sun Aug 13 08:48:43 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.93694782, 60.20227699]
+        },
+        "properties" : {
+        	"id" : 896656271394435072,
+            "text": "This should be interesting. 😁 #worldcon75 #startrek #redshirts @ Worldcon 75 https://t.co/OO5f0dzmKq",
+        	"sentiment_score" : 0.4019,
+        	"time" : "Sun Aug 13 08:54:48 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.935644, 60.202513]
+        },
+        "properties" : {
+        	"id" : 896657797433233408,
+            "text": "#spaceship! Well astronaut &amp; astronomer &amp; engineer/scientist walk into a panel :-)... https://t.co/aVLYOx4Pj5 https://t.co/XFqXYShw3M",
+        	"sentiment_score" : 0.3382,
+        	"time" : "Sun Aug 13 09:00:52 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.935402, 60.202663]
+        },
+        "properties" : {
+        	"id" : 896659304597606400,
+            "text": "Things you'd never see in their UK - gaming machines *everywhere* with credit card machines built-in. https://t.co/yD99dDX5lu",
+        	"sentiment_score" : 0.3818,
+        	"time" : "Sun Aug 13 09:06:51 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.93694782, 60.20227699]
+        },
+        "properties" : {
+        	"id" : 896660024029835264,
+            "text": "I was doing my art show tour and this just came in! Art show guest of honor price from Nalo… https://t.co/eqsJzj4DWx",
+        	"sentiment_score" : 0.5411,
+        	"time" : "Sun Aug 13 09:09:43 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.92916, 60.2057]
+        },
+        "properties" : {
+        	"id" : 896660506118766593,
+            "text": "# Tubeconfi&#39;s hidden diamond or panel discussions. Good ... https://t.co/KnuXs4xhzQ",
+        	"sentiment_score" : 0.6486,
+        	"time" : "Sun Aug 13 09:11:38 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.92933313, 60.20498088]
+        },
+        "properties" : {
+        	"id" : 896667264329678848,
+            "text": "Oh, awesome # discomfort area, here we are because #children and #children #tubecon #hartwall",
+        	"sentiment_score" : 0.3182,
+        	"time" : "Sun Aug 13 09:38:29 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.856321, 60.271084]
+        },
+        "properties" : {
+        	"id" : 896668046709968897,
+            "text": "My goodness in heaven what spicy food !! (@ China Man in Vantaa) https://t.co/totu4XZZee",
+        	"sentiment_score" : 0.7835,
+        	"time" : "Sun Aug 13 09:41:36 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896668283671392256,
+            "text": "The storm that attacked Helsinki last night made our day at Flow Festival very different from… https://t.co/qpYpYi3iZH",
+        	"sentiment_score" : 0.0516,
+        	"time" : "Sun Aug 13 09:42:32 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9392204, 60.1635513]
+        },
+        "properties" : {
+        	"id" : 896672008058032128,
+            "text": "Super Flow, amazing storm...life is filled of magic 🌬💨🌊🌪⚡️⚡️⚡️Can you explain why the… https://t.co/zTFdQaVLjV",
+        	"sentiment_score" : 0.8271,
+        	"time" : "Sun Aug 13 09:57:20 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.4412965, 60.1234932]
+        },
+        "properties" : {
+        	"id" : 896673163718778880,
+            "text": "Want to work at Ericsson? We're #hiring in #kirkkonummi! Click for details: https://t.co/3sIPW5v2LO #Ericsson #OpenSource #Job #Jobs",
+        	"sentiment_score" : 0.1511,
+        	"time" : "Sun Aug 13 10:01:56 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.4412965, 60.1234932]
+        },
+        "properties" : {
+        	"id" : 896676073949151233,
+            "text": "Want to work at Ericsson? We're #hiring in #kirkkonummi! Click for details: https://t.co/vyWRlHVNsW #OpenSource #Job #Jobs",
+        	"sentiment_score" : 0.1511,
+        	"time" : "Sun Aug 13 10:13:30 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.4412965, 60.1234932]
+        },
+        "properties" : {
+        	"id" : 896676188231303172,
+            "text": "This #job might be a great fit for you: Experienced Software Developer (Internet of Things, IoT) - https://t.co/3Qd8twriVV #Ericsson",
+        	"sentiment_score" : 0.765,
+        	"time" : "Sun Aug 13 10:13:57 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.94647936, 60.16225732]
+        },
+        "properties" : {
+        	"id" : 896684816502054913,
+            "text": "When you own an optician shop and really love @megadeth #skulls #vic @ Proud Optiikka https://t.co/vWhAuTfI6i",
+        	"sentiment_score" : 0.8221,
+        	"time" : "Sun Aug 13 10:48:14 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896685587805097984,
+            "text": "#nofilter #noplayback The xx #blownaway @ Flow Festival Helsinki https://t.co/BHzUAkPZqg",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sun Aug 13 10:51:18 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [25.09093311, 60.25260855]
+        },
+        "properties" : {
+        	"id" : 896687578941968385,
+            "text": "Do some pie 😁 Sour cream works great shining tomatoes, no need to add ... https://t.co/ED5ZLlikJ2",
+        	"sentiment_score" : 0.4404,
+        	"time" : "Sun Aug 13 10:59:13 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.6627699, 60.14784]
+        },
+        "properties" : {
+        	"id" : 896688348831416320,
+            "text": "The wins of the Espoonlahti Umbro Cup both in the elite and in the race series! # Meollaanhonka @ ... https://t.co/gTe3V7QGNE",
+        	"sentiment_score" : 0.6114,
+        	"time" : "Sun Aug 13 11:02:16 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.93729033, 60.20165836]
+        },
+        "properties" : {
+        	"id" : 896689063163420673,
+            "text": "@FrancesStockton @Soenda @julainestone We’re wrapping up Worldcon. Sat and chatted with some awesome folks, many of them authors.",
+        	"sentiment_score" : 0.6249,
+        	"time" : "Sun Aug 13 11:05:06 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97111333, 60.18587833]
+        },
+        "properties" : {
+        	"id" : 896689151197753344,
+            "text": "Kids making friendship flags at #flowfestival2017 today #aaltoxflow https://t.co/wPgaqYtEE2",
+        	"sentiment_score" : 0.4404,
+        	"time" : "Sun Aug 13 11:05:27 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896689258827829249,
+            "text": "idoli @ Flow Festival Helsinki https://t.co/Yg16F5ZPiW",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sun Aug 13 11:05:53 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.93731278, 60.20161167]
+        },
+        "properties" : {
+        	"id" : 896689399852707842,
+            "text": "Rick found his phone! ",
+        	"sentiment_score" : 0.5411,
+        	"time" : "Sun Aug 13 11:06:27 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.4412965, 60.1234932]
+        },
+        "properties" : {
+        	"id" : 896691419955339264,
+            "text": "Can you recommend anyone for this #job? Ericsson Early Career Program 2017, Business Support Systems... - https://t.co/PwphjBfoVd #Ericsson",
+        	"sentiment_score" : 0.6369,
+        	"time" : "Sun Aug 13 11:14:28 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896692529432846336,
+            "text": "#flowfestival @ Flow Festival Helsinki https://t.co/hWghaBMAmo",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sun Aug 13 11:18:53 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896692663700918272,
+            "text": "#flowfestival @ Flow Festival Helsinki https://t.co/7ymde2JJeu",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sun Aug 13 11:19:25 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896692730713309184,
+            "text": "#flowfestival @ Flow Festival Helsinki https://t.co/hND24B144U",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sun Aug 13 11:19:41 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.941549, 60.16918285]
+        },
+        "properties" : {
+        	"id" : 896695119809740801,
+            "text": "Good and fast customer service (@ Pizza Hut in Helsinki) https://t.co/So4qQB3NaJ",
+        	"sentiment_score" : 0.4404,
+        	"time" : "Sun Aug 13 11:29:11 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.4412965, 60.1234932]
+        },
+        "properties" : {
+        	"id" : 896695778260930560,
+            "text": "This #job might be a great fit for you: Senior Software Developer (Internet of Things, IoT) - https://t.co/LvLZypVT71 #OpenSource #Hiring",
+        	"sentiment_score" : 0.765,
+        	"time" : "Sun Aug 13 11:31:47 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896696228918022145,
+            "text": "thexx #finland #helsinki #flowfestival2017 #flowfestival @ Flow Festival Helsinki https://t.co/hWWnVglQfv",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sun Aug 13 11:33:35 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.92247, 60.16286]
+        },
+        "properties" : {
+        	"id" : 896698381317296129,
+            "text": "I've had the best day in Helsinki and it's only 2:30. I watched a kid's sailing race-a mother… https://t.co/5SuNgR1lDM",
+        	"sentiment_score" : 0.6369,
+        	"time" : "Sun Aug 13 11:42:08 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9375, 60.1708]
+        },
+        "properties" : {
+        	"id" : 896699585959047168,
+            "text": "Finnish popular markets .... simplicity and beauty ... your morning Finnish atmosphere @ Helsinki https://t.co/cnMC5NfPYY",
+        	"sentiment_score" : 0.765,
+        	"time" : "Sun Aug 13 11:46:55 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896699628766191618,
+            "text": "Flow before the flood #flowfestival #djimavicpro @ Flow Festival Helsinki https://t.co/LJcPomH8xc",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sun Aug 13 11:47:06 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896701060269699074,
+            "text": "#aphextwin 🔥🤘 @ Flow Festival Helsinki https://t.co/Pcs2uXk5sW",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sun Aug 13 11:52:47 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9760494, 60.2921295]
+        },
+        "properties" : {
+        	"id" : 896705223951036416,
+            "text": "The season started in the mines&#39; club. Treena and the arcade duck vs GrIFK D girls. Good game, good resistance. @ ... https://t.co/fQsMPIFg3c",
+        	"sentiment_score" : 0.7003,
+        	"time" : "Sun Aug 13 12:09:20 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.92973175, 60.31803112]
+        },
+        "properties" : {
+        	"id" : 896707085877956609,
+            "text": "At the airport of Finland. The plane is cool. #instapic #instagood #instamood #airport #cityscape # airplane ... Airporthttps: //www.instagram.com/p/BXsC1mmBSbB/",
+        	"sentiment_score" : 0.3182,
+        	"time" : "Sun Aug 13 12:16:43 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9405, 60.18836]
+        },
+        "properties" : {
+        	"id" : 896708227265687552,
+            "text": "I cannot take a good timer photo of myself to save my life. I found where the cool kids hang-a… https://t.co/UVDRXVVSs9",
+        	"sentiment_score" : 0.4756,
+        	"time" : "Sun Aug 13 12:21:16 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9375, 60.1708]
+        },
+        "properties" : {
+        	"id" : 896708858411966466,
+            "text": "A cruise in a canal of Finland ... Islands are quiet and very environmentally friendly and wherever you go, you will find a ... https://t.co/P03ZopKmi5",
+        	"sentiment_score" : 0.539,
+        	"time" : "Sun Aug 13 12:23:46 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896709113396285440,
+            "text": "#kuinviimeistäkesäpäivää #gowiththeflow #day3 ☀️💛🌻 @ Flow Festival Helsinki https://t.co/mzE5j8Lhic",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sun Aug 13 12:24:47 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9325, 60.1647]
+        },
+        "properties" : {
+        	"id" : 896713004686987264,
+            "text": "Drinking a No Hero by @EvilTwinBrewing @ Bar Bronco 3 — https://t.co/sci3dDXiWV",
+        	"sentiment_score" : 0.34,
+        	"time" : "Sun Aug 13 12:40:15 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.93694782, 60.20227699]
+        },
+        "properties" : {
+        	"id" : 896713956156485632,
+            "text": "2015's Hugo Award design. The one in the display case has literally been in space!… https://t.co/G6NmbZaS0x",
+        	"sentiment_score" : 0.5848,
+        	"time" : "Sun Aug 13 12:44:01 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.73920626, 60.16007511]
+        },
+        "properties" : {
+        	"id" : 896715144834818048,
+            "text": "@APIOps @ApiSuomi “From REST to GraphQL” would be an awesome topic.",
+        	"sentiment_score" : 0.6249,
+        	"time" : "Sun Aug 13 12:48:45 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.6556, 60.2056]
+        },
+        "properties" : {
+        	"id" : 896716259479486464,
+            "text": "Time to dress in blue and white again. 🇫🇮 Ready to race @FINAmasters in Budapest. Some medals… https://t.co/Z3yr4Mcvvk",
+        	"sentiment_score" : 0.3612,
+        	"time" : "Sun Aug 13 12:53:11 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.93562933, 60.1546929]
+        },
+        "properties" : {
+        	"id" : 896716514631467009,
+            "text": "Stunning air for walking, swimming and ice cream 🏊 # daytime landscapes #eira # visithelsinki ... https://t.co/OWAiVX2DuN",
+        	"sentiment_score" : 0.3818,
+        	"time" : "Sun Aug 13 12:54:11 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896717321632444417,
+            "text": "Red Arena #flow2017 #prismafilter @ Flow Festival Helsinki https://t.co/LcqprFO8wz",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sun Aug 13 12:57:24 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896718241732730882,
+            "text": "✌️🌞 #flowfestival #flow17 #sundayfun #ootd #fashion #style #cava @ Flow Festival Helsinki https://t.co/pr3f82wyY5",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sun Aug 13 13:01:03 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.6831263, 60.117981]
+        },
+        "properties" : {
+        	"id" : 896719097865654272,
+            "text": "You're only one swim away from a good mood.Early morning swims are amazing. Other than that,… https://t.co/l7rmeQ0iBU",
+        	"sentiment_score" : 0.7717,
+        	"time" : "Sun Aug 13 13:04:27 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.6167749, 60.1579126]
+        },
+        "properties" : {
+        	"id" : 896722606124134400,
+            "text": "@kakeespoo Wood on a light freeway, Kivenlahti, for the Porkkala memorial https://t.co/qtTM2tThXE",
+        	"sentiment_score" : 0.0516,
+        	"time" : "Sun Aug 13 13:18:24 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896725369100935168,
+            "text": "Tearjerking performances? #graffitiart #flow2017 @ Flow Festival Helsinki https://t.co/fI1jjFdlfu",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sun Aug 13 13:29:23 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896727129576140800,
+            "text": "# Flowfestival2017 bike park found like this. I&#39;ll go to the lost items. Spread the word ... https://t.co/KSMm7LWMk6",
+        	"sentiment_score" : 0.0516,
+        	"time" : "Sun Aug 13 13:36:22 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.74328035, 60.15936539]
+        },
+        "properties" : {
+        	"id" : 896728246779351041,
+            "text": "@APIOps @ApiSuomi Yup! A good one.",
+        	"sentiment_score" : 0.4926,
+        	"time" : "Sun Aug 13 13:40:49 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.93694782, 60.20227699]
+        },
+        "properties" : {
+        	"id" : 896730231712735233,
+            "text": "#Worldcon75 closing ceremony starting soon. It's been fun five days! @ Worldcon 75 https://t.co/YH1orFfoNF",
+        	"sentiment_score" : 0.5562,
+        	"time" : "Sun Aug 13 13:48:42 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9375, 60.1708]
+        },
+        "properties" : {
+        	"id" : 896730977472397312,
+            "text": "#FlowFestival2017  day 3. Ready 😊 #friend #workinglife #helsinki #finland @ Helsinki https://t.co/Amyd1XYKoD",
+        	"sentiment_score" : 0.3612,
+        	"time" : "Sun Aug 13 13:51:40 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896731186868797442,
+            "text": "I and my coat with hoodies! Now, today I launched my own private tub channel! Please ... https://t.co/ZyCQgfDoYs",
+        	"sentiment_score" : 0.5242,
+        	"time" : "Sun Aug 13 13:52:30 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.935644, 60.202513]
+        },
+        "properties" : {
+        	"id" : 896731802815037440,
+            "text": ":-D (@ Worldcon75 in Helsinki, Uusimaa w/ @nwbrux) https://t.co/ypNwpxMVZh https://t.co/Edz9ekJc18",
+        	"sentiment_score" : 0.6166,
+        	"time" : "Sun Aug 13 13:54:56 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97154, 60.186015]
+        },
+        "properties" : {
+        	"id" : 896733141037187072,
+            "text": "I'm at Flow Festival 2017 in Helsinki, Uusimaa w/ @lassi https://t.co/r80NjBHe4d",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sun Aug 13 14:00:15 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.4412965, 60.1234932]
+        },
+        "properties" : {
+        	"id" : 896734221133242369,
+            "text": "Want to work at Ericsson? We're #hiring in #kirkkonummi! Click for details: https://t.co/3dl8gjMfKB #Ericsson #OpenSource #Job #Jobs",
+        	"sentiment_score" : 0.1511,
+        	"time" : "Sun Aug 13 14:04:33 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [25.078019, 60.260132]
+        },
+        "properties" : {
+        	"id" : 896734551791329282,
+            "text": "Happy Birthday Sanna-Leena https://t.co/BfzlQyzNdq https://t.co/EFiFPljQvL",
+        	"sentiment_score" : 0.5719,
+        	"time" : "Sun Aug 13 14:05:52 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.4412965, 60.1234932]
+        },
+        "properties" : {
+        	"id" : 896735229238321152,
+            "text": "Want to work at Ericsson? We're #hiring in #kirkkonummi! Click for details: https://t.co/XDGnxI9nC4 #OpenSource #Job #Jobs",
+        	"sentiment_score" : 0.1511,
+        	"time" : "Sun Aug 13 14:08:33 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.938379, 60.1698557]
+        },
+        "properties" : {
+        	"id" : 896738512875077633,
+            "text": "This #job might be a great fit for you: Software Engineer - https://t.co/9D2wzZIPAg #IT #Helsinki, Uusimaa #Veterans #Hiring #CareerArc",
+        	"sentiment_score" : 0.765,
+        	"time" : "Sun Aug 13 14:21:36 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9375, 60.1708]
+        },
+        "properties" : {
+        	"id" : 896739974619574272,
+            "text": "Happy Sunday everyone ❤️ Making my Sunday extra fun is vegan pancakes! 🥞 Yum 😋 So happy with… https://t.co/bKuJN5OFwl",
+        	"sentiment_score" : 0.9059,
+        	"time" : "Sun Aug 13 14:27:25 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [25.04, 60.3]
+        },
+        "properties" : {
+        	"id" : 896741777025183745,
+            "text": "Lovely nature, dessert with my aunt Helene.  #finlandnaturelover #berrydessert2017 @ Vantaa,… https://t.co/wm5WQGTlDx",
+        	"sentiment_score" : 0.5859,
+        	"time" : "Sun Aug 13 14:34:34 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.4412965, 60.1234932]
+        },
+        "properties" : {
+        	"id" : 896743386245246977,
+            "text": "Join the Ericsson team! See our latest #job opening here: https://t.co/IoXSFo4AFS #Ericsson #OpenSource #kirkkonummi #Hiring",
+        	"sentiment_score" : 0.3595,
+        	"time" : "Sun Aug 13 14:40:58 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.93694782, 60.20227699]
+        },
+        "properties" : {
+        	"id" : 896743655200968704,
+            "text": "Outi made a joke, just like Norman did. It is fitting that they are together.#worldcon75 #bids… https://t.co/Nv13EIsdfC",
+        	"sentiment_score" : 0.5719,
+        	"time" : "Sun Aug 13 14:42:02 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.92916, 60.2057]
+        },
+        "properties" : {
+        	"id" : 896744042230411264,
+            "text": "A nice event, but the toilets do not stay behind ☹️ # tubecon #hartwallarena #publictoilet # Jokerit ... https://t.co/LAQ1YvjHJ9",
+        	"sentiment_score" : 0.2263,
+        	"time" : "Sun Aug 13 14:43:35 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [25.11334, 60.31374]
+        },
+        "properties" : {
+        	"id" : 896746589695475712,
+            "text": "We had a nice day out at Kuusijärvi with some friends. It's a lovely place. There's a smoked… https://t.co/2PSU21vvom",
+        	"sentiment_score" : 0.8658,
+        	"time" : "Sun Aug 13 14:53:42 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.93694782, 60.20227699]
+        },
+        "properties" : {
+        	"id" : 896748251516346369,
+            "text": "That's it. Time go back to reality.Thank you worldcon75, it's been a blast! ❤ #worldcon75… https://t.co/o8W8EVGQPs",
+        	"sentiment_score" : 0.4199,
+        	"time" : "Sun Aug 13 15:00:18 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896749306807549952,
+            "text": "Do not be afraid of wet-wet weather, unlike esquireru; And continued to have a great time ... https://t.co/kDNPC3WOjf",
+        	"sentiment_score" : 0.6249,
+        	"time" : "Sun Aug 13 15:04:30 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.86015939, 60.15806413]
+        },
+        "properties" : {
+        	"id" : 896752190701920256,
+            "text": "Slightly there are signs of # autumn in the air - and in the trees. But so I guess it&#39;s like # summer vacation ... https://t.co/B4vst61mRj",
+        	"sentiment_score" : 0.4144,
+        	"time" : "Sun Aug 13 15:15:57 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896752927120908290,
+            "text": "#mesak #flow2017 @ Flow Festival Helsinki https://t.co/ijt67iJ0up",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sun Aug 13 15:18:53 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896758074379075584,
+            "text": "Although Aphex Twin was great on Friday, Flow Family Sunday was the absolute highlight. Kids'… https://t.co/dpFxCNlEaD",
+        	"sentiment_score" : 0.7579,
+        	"time" : "Sun Aug 13 15:39:20 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.94399811, 60.17090795]
+        },
+        "properties" : {
+        	"id" : 896758381276413952,
+            "text": "Does this look like a good idea? Crane hoisting table and diners up into the sky? @ Dinner in… https://t.co/KksduX1zew",
+        	"sentiment_score" : 0.6966,
+        	"time" : "Sun Aug 13 15:40:33 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [25.04, 60.3]
+        },
+        "properties" : {
+        	"id" : 896763260044791809,
+            "text": "13.12 strong lovely 😊 what about you 🤔 @ Vantaa, Finland https://t.co/GjxGodfULL",
+        	"sentiment_score" : 0.7964,
+        	"time" : "Sun Aug 13 15:59:56 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.96181798, 60.18759794]
+        },
+        "properties" : {
+        	"id" : 896767179529502722,
+            "text": "Improved the look of the hallway a bit! Astronaut suits by the BBC! #bbc #bbceu #bbcicecream… https://t.co/RnEvdxECNi",
+        	"sentiment_score" : 0.5696,
+        	"time" : "Sun Aug 13 16:15:31 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9375, 60.1708]
+        },
+        "properties" : {
+        	"id" : 896773640712224768,
+            "text": "Kiitos kaikille onnitteluista! Thank you all for your birthday wishes! I got some #cake and… https://t.co/Q7DZDAQyF9",
+        	"sentiment_score" : 0.5696,
+        	"time" : "Sun Aug 13 16:41:11 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9375, 60.1708]
+        },
+        "properties" : {
+        	"id" : 896775698899021824,
+            "text": "Sightseeing in Helsinki today! I went to Sibelius Park, Helsinki Cathedral and Uspenski Temple, (^ ○ ^) Because it is 6 hours of jet lag, it will be around 8 o&#39;clock in the evening but it is usually bright! Location: Helsinkihttps: //www.instagram.com/p/BXvcO1qANl5/",
+        	"sentiment_score" : 0.5767,
+        	"time" : "Sun Aug 13 16:49:22 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.92916, 60.2057]
+        },
+        "properties" : {
+        	"id" : 896778759784857601,
+            "text": "Tubecon 2017 was a great experience. There came back to the root of vlogging #tubecon # tubecon2017 ... https://t.co/JyxHmVXs4O",
+        	"sentiment_score" : 0.6249,
+        	"time" : "Sun Aug 13 17:01:32 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896780692381675520,
+            "text": "#flowfestival2017 @ Flow Festival Helsinki https://t.co/LgQQFtNRR2",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sun Aug 13 17:09:13 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896781299171680256,
+            "text": "Flow-boys på Ryan Adams! 🎈👊🏻 bjorn.salmi @ Flow Festival Helsinki https://t.co/uKRrnHXhZJ",
+        	"sentiment_score" : 0.5411,
+        	"time" : "Sun Aug 13 17:11:37 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9375, 60.1708]
+        },
+        "properties" : {
+        	"id" : 896783216761217024,
+            "text": "Running #Lubuntu 16.04 LTS on #IBM #X60s w 2 GB RAM until April 2019. Perfect match! @ Helsinki https://t.co/bhqi4VaCbh",
+        	"sentiment_score" : 0.8087,
+        	"time" : "Sun Aug 13 17:19:14 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896785209533902848,
+            "text": "It just felt like a #chocolateicecream moment (although many a Finn would argue any time is ice… https://t.co/1ysFw2p7yg",
+        	"sentiment_score" : 0.0258,
+        	"time" : "Sun Aug 13 17:27:10 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896787345944563712,
+            "text": "Flowtärinät ❤😍❤ @flowfestival @reinonordin @ Flow Festival Helsinki https://t.co/3OI4xl6QqO",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sun Aug 13 17:35:39 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896792171008860160,
+            "text": "Angel Olsen ❤️ @ Flow Festival Helsinki https://t.co/BWT4axxNax",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sun Aug 13 17:54:49 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.93694782, 60.20227699]
+        },
+        "properties" : {
+        	"id" : 896793588952158208,
+            "text": "The matte paintings are not getting any more convincing. @ Worldcon 75 https://t.co/BiOKyrb1tO",
+        	"sentiment_score" : 0.4576,
+        	"time" : "Sun Aug 13 18:00:27 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896793646711750656,
+            "text": "Ranch diggailee. @ Flow Festival Helsinki https://t.co/1rf4MbKyU8",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sun Aug 13 18:00:41 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9375, 60.1708]
+        },
+        "properties" : {
+        	"id" : 896795118094741504,
+            "text": "The local gin. Finnish Napue. Great stuff. I couldn't resist buying a bottle from duty free for… https://t.co/l2TNJ0UuPN",
+        	"sentiment_score" : 0.8126,
+        	"time" : "Sun Aug 13 18:06:32 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9398, 60.168]
+        },
+        "properties" : {
+        	"id" : 896796346828677124,
+            "text": "Taster. We have the rare 1.0 Lesbians! - Drinking a Dark Humor Club Hot Chocolate @ Villin Wäinön terassi - https://t.co/eljjMsaerG",
+        	"sentiment_score" : 0.3382,
+        	"time" : "Sun Aug 13 18:11:25 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896797296674918401,
+            "text": "What a nice surprise #RyanAdams #flowfestival #Helsinki #nofilter @ Flow Festival Helsinki https://t.co/FThCablVzr",
+        	"sentiment_score" : 0.7964,
+        	"time" : "Sun Aug 13 18:15:11 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9354, 60.1695]
+        },
+        "properties" : {
+        	"id" : 896797900122009600,
+            "text": "Teen Choice Awards, @teenchoicefox is now trending in Finlandhttps://t.co/GLEkLNoTxM https://t.co/ejGfyRj4qz",
+        	"sentiment_score" : 0.4588,
+        	"time" : "Sun Aug 13 18:17:35 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.96667, 60.16667]
+        },
+        "properties" : {
+        	"id" : 896798264107859968,
+            "text": "Good evening #Helsinki! Sun will set in 30 minutes (local time 21:19) #Sunset #Photo #Photography [13.08.2017]",
+        	"sentiment_score" : 0.4926,
+        	"time" : "Sun Aug 13 18:19:02 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896801693932949504,
+            "text": "50-50. #flowfestival #aaltoxflow @ Flow Festival Helsinki https://t.co/TZPxj1clp0",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sun Aug 13 18:32:40 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9398, 60.168]
+        },
+        "properties" : {
+        	"id" : 896802160943476736,
+            "text": "Very tasty indeed. Not insanely hopped for the strength, and the temperature is goo... (Emmer IPA) https://t.co/HxMni2tRsZ",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sun Aug 13 18:34:31 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896805008825516033,
+            "text": "Angel Olsen shredding that axe. Not ;-) #angelolsen #flow2017 @ Flow Festival Helsinki https://t.co/ixBjkiOVEz",
+        	"sentiment_score" : 0.5859,
+        	"time" : "Sun Aug 13 18:45:50 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.96812407, 60.17364025]
+        },
+        "properties" : {
+        	"id" : 896808362599489536,
+            "text": "🇬🇧 \"...and brave little boat ploughed headlong into the misty veil...\"🇷🇺 моё утро сегодня… https://t.co/YmLClGjYhv",
+        	"sentiment_score" : 0.5267,
+        	"time" : "Sun Aug 13 18:59:10 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896810933133115392,
+            "text": "Spreading the word #yardlife ❤'s #flowfestival #helsinki ✌🏾🙌🏻 @ Flow Festival Helsinki https://t.co/WgbQ1CscSK",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sun Aug 13 19:09:23 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9375, 60.1708]
+        },
+        "properties" : {
+        	"id" : 896811221315354625,
+            "text": "The practice of walking in the Finnish gardens and especially after a rain stop is an experience of extreme magnificence ... above and beyond that ... https://t.co/72RlzSSQqj",
+        	"sentiment_score" : 0.235,
+        	"time" : "Sun Aug 13 19:10:31 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.947, 60.1713]
+        },
+        "properties" : {
+        	"id" : 896812599794335746,
+            "text": "Refreshing! But a bit generic. Still better than anything at Messukesk... (Kuohu Valioluokka Pils) https://t.co/OJlUPw5xaF",
+        	"sentiment_score" : 0.4926,
+        	"time" : "Sun Aug 13 19:16:00 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896814255927955457,
+            "text": "Kanye West - #flowfestival . Such an emotional performance! @ Flow Festival Helsinki https://t.co/KngEcWEcFy",
+        	"sentiment_score" : 0.6239,
+        	"time" : "Sun Aug 13 19:22:35 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9375, 60.1708]
+        },
+        "properties" : {
+        	"id" : 896815727235158017,
+            "text": "Listening to the beautiful voices and the fresh melodies capturing the souls in their solution and their migration ... We have accompanied the melodies ... https://t.co/yQ3v9D0ftH",
+        	"sentiment_score" : 0.8176,
+        	"time" : "Sun Aug 13 19:28:26 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896817037561008129,
+            "text": "Flobros 🖤 @ Flow Festival Helsinki https://t.co/MMcdjOp4MZ",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sun Aug 13 19:33:38 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.95100456, 60.18558306]
+        },
+        "properties" : {
+        	"id" : 896820615335817217,
+            "text": "Final Festival ritual #snip #flow2017 @ Castréninkatu https://t.co/TsTfr7kS6O",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sun Aug 13 19:47:51 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [25.05627244, 60.20440692]
+        },
+        "properties" : {
+        	"id" : 896821348345012224,
+            "text": "Almost 21 hours, or 3 hours a day. I reached my goal. So happy! #cycling #walking #moves… https://t.co/VhOkqe1YhS",
+        	"sentiment_score" : 0.6893,
+        	"time" : "Sun Aug 13 19:50:46 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.92571473, 60.19882195]
+        },
+        "properties" : {
+        	"id" : 896824322303467520,
+            "text": "Ladies night in #worldcon75 #booktubew75 @ Original Sokos Hotel Pasila https://t.co/U3AChcmv5c",
+        	"sentiment_score" : 0.3182,
+        	"time" : "Sun Aug 13 20:02:35 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9474, 60.1719]
+        },
+        "properties" : {
+        	"id" : 896824784184627201,
+            "text": "Wow! Needs Cheviot and Stag! - Drinking in Siperia by Koskipanimo @ Kaisla - https://t.co/GeuxD5e09L",
+        	"sentiment_score" : 0.658,
+        	"time" : "Sun Aug 13 20:04:25 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.4291975, 60.1241927]
+        },
+        "properties" : {
+        	"id" : 896825057883848704,
+            "text": "Confirmation party went well😀 @ Kirkkonummi Finnsbacka https://t.co/5PPDFTKYQm",
+        	"sentiment_score" : 0.4019,
+        	"time" : "Sun Aug 13 20:05:30 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896825070068289536,
+            "text": "Moderat @ Flow Festival Helsinki https://t.co/mdKcJxlQE7",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sun Aug 13 20:05:33 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896826628151672832,
+            "text": "@ModeratOfficial @flowfestival @ Flow Festival Helsinki https://t.co/HkFBj2FjEa",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sun Aug 13 20:11:45 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896826980242509825,
+            "text": "@ModeratOfficial @flowfestival @ Flow Festival Helsinki https://t.co/5A4Im6X9qa",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sun Aug 13 20:13:08 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9474, 60.1719]
+        },
+        "properties" : {
+        	"id" : 896827688056475649,
+            "text": "Standard, but pleasant. - Drinking a Keisari 25 by @NokianKeisari @ Kaisla  — https://t.co/qd83DpM2hQ",
+        	"sentiment_score" : 0.6652,
+        	"time" : "Sun Aug 13 20:15:57 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896828802759839744,
+            "text": "Jytisee ihaok. Moderat. @ Flow Festival Helsinki https://t.co/Wl34Ql67yk",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sun Aug 13 20:20:23 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9474, 60.1719]
+        },
+        "properties" : {
+        	"id" : 896832400268959745,
+            "text": "Oh my holy fucking imaginary friend! - Drinking a Siperia by Koskipanimo @ Kaisla  — https://t.co/i5ENQulsSi",
+        	"sentiment_score" : 0.5818,
+        	"time" : "Sun Aug 13 20:34:41 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.938379, 60.1698557]
+        },
+        "properties" : {
+        	"id" : 896834960295772160,
+            "text": "Can you recommend anyone for this #job? Software Engineer - https://t.co/peePe3ld7J #IT #Helsinki, Uusimaa #Veterans #Hiring #CareerArc",
+        	"sentiment_score" : 0.3612,
+        	"time" : "Sun Aug 13 20:44:51 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896836156368629760,
+            "text": "I'm watching this scene from above, in the Gold Tent, like a freakin' Queen. @ Flow Festival… https://t.co/48TtPrf72E",
+        	"sentiment_score" : 0.3612,
+        	"time" : "Sun Aug 13 20:49:36 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9375, 60.1708]
+        },
+        "properties" : {
+        	"id" : 896836239080509441,
+            "text": "because i have a brother, i'll always have a friend. Happy birthday my kid! @ Helsinki https://t.co/XFWyIzCLYW",
+        	"sentiment_score" : 0.8016,
+        	"time" : "Sun Aug 13 20:49:56 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.93, 60.17]
+        },
+        "properties" : {
+        	"id" : 896836356030291970,
+            "text": "shower rain -&gt; clear skytemperature down 17°C -&gt; 14°Chumidity up 77% -&gt; 93%wind 5kmh -&gt; 4kmh",
+        	"sentiment_score" : 0.3818,
+        	"time" : "Sun Aug 13 20:50:24 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896836374107574272,
+            "text": "OMG 😲 @ Flow Festival Helsinki https://t.co/fDqNj5DdCy",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sun Aug 13 20:50:28 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9375, 60.1708]
+        },
+        "properties" : {
+        	"id" : 896839487283761152,
+            "text": "Sit wondered why smokers in ubiquitous smokes urea. Everyone does not pay for the toilet ... https://t.co/eoPbLB8q89",
+        	"sentiment_score" : 0.0762,
+        	"time" : "Sun Aug 13 21:02:50 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9253, 60.1991]
+        },
+        "properties" : {
+        	"id" : 896840596828061700,
+            "text": "Not since the Czech Eurocon... - Drinking a Kozel Černý / Dark @ Original Sokos Hotel Pasila aamiaisravintola - https://t.co/xisKy7xWMP",
+        	"sentiment_score" : 0.3182,
+        	"time" : "Sun Aug 13 21:07:15 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.92973175, 60.31803112]
+        },
+        "properties" : {
+        	"id" : 896843547135152132,
+            "text": "Bye, Helsinki! You were very nice and very Finnish. @ Helsinki Airport https://t.co/KQ96L3i0UZ",
+        	"sentiment_score" : 0.5244,
+        	"time" : "Sun Aug 13 21:18:58 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.99329148, 60.17893431]
+        },
+        "properties" : {
+        	"id" : 896843896713494528,
+            "text": "We shared our shoes, we shared our clothesWe had so very different views, on boys and toys and… https://t.co/qmzcSxAPJY",
+        	"sentiment_score" : 0.5859,
+        	"time" : "Sun Aug 13 21:20:22 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.99329148, 60.17893431]
+        },
+        "properties" : {
+        	"id" : 896845265826664448,
+            "text": "We shared our shoes, we shared our clothesWe had so very different views, on boys and toys and… https://t.co/qmzcSxSr8y",
+        	"sentiment_score" : 0.5859,
+        	"time" : "Sun Aug 13 21:25:48 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896846562273497089,
+            "text": "#faka #flow  #flowfestival2017 #flowfestivalhelsinki @ Flow Festival Helsinki https://t.co/HRJlpj8wWo",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sun Aug 13 21:30:57 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896847093066813447,
+            "text": "Amazing stage show #frankocean #flowfestival2017 @ Flow Festival Helsinki https://t.co/ttEmyVfuba",
+        	"sentiment_score" : 0.7906,
+        	"time" : "Sun Aug 13 21:33:04 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896848545046822912,
+            "text": "Frank Ocean on Flow tonight totally blew my mind !!! Very sick nice and innovative without ... https://t.co/B4bcCiLJ9S",
+        	"sentiment_score" : 0.5042,
+        	"time" : "Sun Aug 13 21:38:50 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.94583333, 60.15833333]
+        },
+        "properties" : {
+        	"id" : 896848713028685825,
+            "text": "The best thing right now. 💕 Boys home and self-bored #midnightsnack # bunny roll # pulledoats ... https://t.co/FdvSsp5kd3",
+        	"sentiment_score" : 0.6369,
+        	"time" : "Sun Aug 13 21:39:30 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896857001904439296,
+            "text": "The one and only #guitarhero - fucking amazing show! #ryanadams @ Flow Festival Helsinki https://t.co/Nm87rGfCyu",
+        	"sentiment_score" : 0.8217,
+        	"time" : "Sun Aug 13 22:12:26 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896857035882414080,
+            "text": "#ryanadams 🤘🔥🤘🤘🤘🤘🤘🤘🤘 #terminator @ Flow Festival Helsinki https://t.co/NKppbu6viw",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sun Aug 13 22:12:34 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896857239276978177,
+            "text": "Moderat. Nicest possible end of the world. #moderat #flowfestival #flowfestival2017 #helsinki… https://t.co/XLnQikNuuX",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Sun Aug 13 22:13:23 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896858974640721920,
+            "text": "Flow 3/3 gets 5 out of 5 just for #moderat @ModeratOfficial - perfect end to a perfect festival… https://t.co/qVRmCCYoBa",
+        	"sentiment_score" : 0.8126,
+        	"time" : "Sun Aug 13 22:20:17 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.95597944, 60.19369845]
+        },
+        "properties" : {
+        	"id" : 896881698176090112,
+            "text": "Ok I got undo working by using async event listener, sublime text needs more docs for plugin",
+        	"sentiment_score" : 0.296,
+        	"time" : "Sun Aug 13 23:50:34 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.92118604, 60.14971263]
+        },
+        "properties" : {
+        	"id" : 896889908966682624,
+            "text": "Let's all just take a moment to appreciate how quickly my baby cousins are adjusting to English… https://t.co/a6KElvDQVO",
+        	"sentiment_score" : 0.4019,
+        	"time" : "Mon Aug 14 00:23:12 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.94402778, 60.17111111]
+        },
+        "properties" : {
+        	"id" : 896894233180856322,
+            "text": "This was our last Helsinki adventure. Chris treated us to dinner in the sky. A crane lifted… https://t.co/HmVdU9dtS4",
+        	"sentiment_score" : 0.3182,
+        	"time" : "Mon Aug 14 00:40:23 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.92973175, 60.31803112]
+        },
+        "properties" : {
+        	"id" : 896918665550942208,
+            "text": "#TeamEdwards on the go again and happy even at 5 a.m. ....team member not shown is cranky that… https://t.co/GlhWzNaMD0",
+        	"sentiment_score" : 0.5719,
+        	"time" : "Mon Aug 14 02:17:28 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9383, 60.1698]
+        },
+        "properties" : {
+        	"id" : 896922161255899136,
+            "text": "Good morning, Helsinki! :) #Sunrise 05:31, noon 13:25, sunset 21:17 EEST (UTC+3), August 14. Day length: 15h 46m.",
+        	"sentiment_score" : 0.7345,
+        	"time" : "Mon Aug 14 02:31:21 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.96667, 60.16667]
+        },
+        "properties" : {
+        	"id" : 896922583790215168,
+            "text": "Good morning #Helsinki! Sun will rise in 30 minutes (local time 05:33) #Sunrise #Photo #Photography [14.08.2017]",
+        	"sentiment_score" : 0.4926,
+        	"time" : "Mon Aug 14 02:33:02 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9375, 60.1708]
+        },
+        "properties" : {
+        	"id" : 896939473090433024,
+            "text": "Beautiful landing in the spotlight! Have a good start of the week!f/3.5 1/5000sec 18mm… https://t.co/VexSlzRxFP",
+        	"sentiment_score" : 0.8118,
+        	"time" : "Mon Aug 14 03:40:09 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.97201109, 60.18596966]
+        },
+        "properties" : {
+        	"id" : 896947978010865664,
+            "text": "#nowords #frankocean #flowfestival2017 #Helsinki @ Flow Festival Helsinki https://t.co/vjMlORxsYC",
+        	"sentiment_score" : 0.4939,
+        	"time" : "Mon Aug 14 04:13:57 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.938379, 60.1698557]
+        },
+        "properties" : {
+        	"id" : 896951012958773248,
+            "text": "Join the CEB team! See our latest #job opening here: https://t.co/Dc7AGgTtfY #InsideSales #SalesLife #Sales #Helsinki #Hiring",
+        	"sentiment_score" : 0.3595,
+        	"time" : "Mon Aug 14 04:26:00 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [25.04, 60.3]
+        },
+        "properties" : {
+        	"id" : 896955612889796608,
+            "text": "Berries for breakfast in Finland. Lovely! #berries #harvest #compote #breakfast #finland @… https://t.co/nLvM4F1p9C",
+        	"sentiment_score" : 0.6239,
+        	"time" : "Mon Aug 14 04:44:17 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.94033813, 60.18480608]
+        },
+        "properties" : {
+        	"id" : 896968332519362560,
+            "text": "Yes, I was expecting the school to start. Today it finally started! Now is good. #only # school https://t.co/lcty9KOr78",
+        	"sentiment_score" : 0.7088,
+        	"time" : "Mon Aug 14 05:34:49 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.98444444, 60.14361111]
+        },
+        "properties" : {
+        	"id" : 896968514166239232,
+            "text": "Beautiful weather for a picnic in Suomenlinna ♥ #travelingwithvera #travelblogger… https://t.co/gh6UJKf9kR",
+        	"sentiment_score" : 0.5994,
+        	"time" : "Mon Aug 14 05:35:33 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.92973175, 60.31803112]
+        },
+        "properties" : {
+        	"id" : 896972326415212545,
+            "text": "#worldcon75 adventure has ended, time to go home. Bye #Helsinki, it's been great! @ Helsinki… https://t.co/A8cqxYOpCG",
+        	"sentiment_score" : 0.7712,
+        	"time" : "Mon Aug 14 05:50:42 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [24.9375, 60.1708]
+        },
+        "properties" : {
+        	"id" : 896974098743435268,
+            "text": "Feeling blessed to have 33rd birthday this day. I'm trying to learn to have more faith in myself… https://t.co/u2jlZq2gQA",
+        	"sentiment_score" : 0.8173,
+        	"time" : "Mon Aug 14 05:57:44 +0000 2017"
+        	}
+        },
+        { "type" : "Feature",
+    	"geometry" : {
+        	"type" : "Point",
+        	"coordinates" : [25.03388889, 60.19055556]
+        },
+        "properties" : {
+        	"id" : 896975002620354560,
+            "text": "Post-shift trip to south ❤️ The journey continues in sunny weather ... #kuopio # helsinki ... https://t.co/gOcYBpC01Q",
+        	"sentiment_score" : 0.4215,
+        	"time" : "Mon Aug 14 06:01:20 +0000 2017"
+        	}
+        }
+     ]
+}
+    

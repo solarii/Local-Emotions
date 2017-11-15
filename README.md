@@ -5,6 +5,8 @@ This project was made as a part of research project for Aalto university's Ambie
 
 With this application you can crawl for tweets with your preferred searchterms (keywords, locations, users etc.), do an sentiment analyzation for them (positive, negative or neutral opinion), and then visualize them as a heatmap based on their location.
 
+For a demo, please visit: http://niklasstrengell.fi/dev/sentientcities/
+
 Required installations
 ------------------
 
@@ -76,4 +78,44 @@ To perform the sentiment analysis, run:
 	python3 sentimentAnalyzer.py tweets_translated.p map.html
 
 It will analyze the tweets and draw a folium map with heatmap visualization named "map.html". In addition two pickle-files "tweets_translated_negative.p" and "tweets_translated_positive.p" are produced.
+
+You can now open the produced .html-file in your browser and study it, or you can continue further.
+
+
+Adding demographics
+-----------------
+
+For demographics, we use the Text API from the Dutch firm Ai Applied. By applying machine learning models to the text, it gives an age-group prediction. The model is based on the fact that some terms or sentences, are almost always produced by people of a certain age. According to their wevsite, estimation accuracies can be improved towards 75%, if user-names or proper names of the message author (e.g. Twitter handles) are available. This is also a freemium-service, but you can get your own API credentials and 5000 free requests from their website: https://ai-applied.nl/text-apis 
+
+To perform demographis analyze, parse first the .json-file:
+
+	python3 demographicsParser.py tweets_translated.p
+
+Then send it to Text API. Remember to add your own API key.
+
+	python3 demographisAnalyzer.py tweets_translated.json
+
+Then we can add the demographics and the name prediction. @TODO from command line
+
+	python3 addDemographics.py
+
+Parsing the geoJSON file
+-----------------
+Before we can animate the tweets we need to parse the file into a geoJSON which we can then use. @TODO, this actually comes before demographics.
+
+	python3 geojsonParser.py tweets_translated.p
+
+Visualizing the file
+-----------------
+
+Finally, after we have the .geojson-file, we can add it to our visualization with animation. Add it to the folder html/data and Open html/js/main.js. Replace this part on line 62 with the name of your new file:
+
+	$.getJSON('data/tweets_weekend32_positive_demographics.json', function(rawData)
+
+The last thing is to register your own account at http://mapbox.com and get your own API key to use the maps. Then replace this on line 25:
+
+	accessToken: 'YOUR ACCESS TOKEN'
+
+You should now be good to go!
+
 

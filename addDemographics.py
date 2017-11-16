@@ -1,12 +1,16 @@
 import pickle, os, sys, csv, json
 
+# The command line arguments
+geojsonfile = str(sys.argv[1])
+demographicsfile = str(sys.argv[2])
+
 # Open the files
 inputGeoJSON = None
-with open('tweets_positive_weekend32.geojson') as f:
+with open(geojsonfile) as f:
 	inputGeoJSON = json.load(f)
 
 ageDemographics = None
-with open('tweets_positive_weekend32_demographics.json') as f_age:
+with open(demographicsfile) as f_age:
 	ageDemographics = json.load(f_age)
 
 # Open the first name statistics
@@ -51,8 +55,9 @@ for tweet in inputGeoJSON['features']:
 			break
 
 # Save the updated GeoJSON file
-with open('tweets_with_demographics.json', 'w') as fp:
+with open(geojsonfile + '_demographics.geojson', 'w') as fp:
 	json.dump(inputGeoJSON, fp)
 
-print(males)
-print(females)
+print("Amount of males: %s" % males)
+print("Amount of femals: %s" % females)
+#print("Amount of unpredicted gender: %s" % ())

@@ -5,7 +5,7 @@ This project was made as a part of research project for Aalto university's Ambie
 
 With this application you can crawl for tweets with your preferred searchterms (keywords, locations, users etc.), do an sentiment analyzation for them (positive, negative or neutral opinion), and then visualize them as a heatmap based on their location.
 
-For a demo, please visit: http://niklasstrengell.fi/dev/sentientcities/
+For a demo, please visit: http://niklasstrengell.fi/dev/localemotions/
 
 Required installations
 ------------------

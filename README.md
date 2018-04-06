@@ -1,6 +1,10 @@
 Sentiment analysis and heatmap visualization for geolocated tweets
 ==================
 
+This whitepaper was part of the official program in EmotionAware'18 workshop in PerCom'18, Athens, Greece. To read more about the workshop, please visit:
+
+https://www.comtec.eecs.uni-kassel.de/emotionaware/
+
 This project was made as a part of research project for Aalto university's Ambient Intelligence Research Team. You can learn more about the team and our work at: http://ambientintelligence.aalto.fi/
 
 With this application you can crawl for tweets with your preferred searchterms (keywords, locations, users etc.), do an sentiment analyzation for them (positive, negative or neutral opinion), and then visualize them as a heatmap based on their location.
